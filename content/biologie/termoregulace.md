@@ -5,7 +5,7 @@ date = 2020-12-17
 
 # Termoregulace
 
-- vnitřní prostředí v ormganismu tvoří prostředí pro metabolismus
+- vnitřní prostředí v organismu tvoří prostředí pro metabolismus
 - čim je zvíře dokonalejší a složitější
 - živočichy dle teploty těla rozdělit do dvou skupin
   - **Poikilotermní** (Ektotermní) - zvířata, která svým vlastním metabolismem nedokáží ovlivnit teplotu svého těla
