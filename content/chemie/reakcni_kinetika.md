@@ -6,11 +6,9 @@ date=2020-12-17
 
 +++
 
+![](images/IMG_5028.jpg)
 
+![](images/IMG_5030.jpg)
 
-![image-20201221220258145](/Users/matej/Library/Application Support/typora-user-images/image-20201221220258145.png)
-
-![image-20201221220338195](/Users/matej/Library/Application Support/typora-user-images/image-20201221220338195.png)
-
-![image-20201221220407568](/Users/matej/Library/Application Support/typora-user-images/image-20201221220407568.png)
+![](images/IMG_5031.jpg)
 
