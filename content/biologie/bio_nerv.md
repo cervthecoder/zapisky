@@ -4,7 +4,6 @@ date = 2020-12-13
 +++
 
 
-# Nervová Regulace
 
 - ***Nervová regulace*** - rychlá přesná a účinná
 - základní stavební jednotka (buňka) $\rightarrow$ *NEURON*
