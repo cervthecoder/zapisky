@@ -1,15 +1,28 @@
 @import "colors";
 
 @font-face {
-    font-family: 'Iosevka';
-    src: url("/fonts/iosevka-regular.woff2"),
-        url("/fonts/iosevka-italic.woff2"),
-        url("/fonts/iosevka-bold.woff2"),
-        url("/fonts/iosevka-bolditalic.woff2");
-}
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
+    font-style: italic, oblique;
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
+    font-weight: bold;
+    font-style: italic, oblique;
+  }
 
-$font: "Iosevka", sans-serif;
-$font-mono:  "Iosevka", monospace;
+$font: "Computer Modern", sans-serif;
+$font-mono:  "Computer Modern", monospace;
 $padding: 8px;
 
 body {
