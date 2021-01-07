@@ -18,7 +18,6 @@ date=2020-01-07
     - Je komplikovanější
     - Nová generace je geneticky variabilní
     - Evolučně výhodnější
-    - 
 
 ### Nepohlavní dělení prvoků
 
