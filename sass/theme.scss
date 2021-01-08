@@ -41,6 +41,25 @@ body {
         "footer";
 }
 
+blockquote {
+  border-radius: 8px;
+  background: #2a2c2e;
+  border-left: 10px solid #028fdb;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+
+}
+blockquote:before {
+  color: #ccc;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
 header {
     padding: $padding $padding 0 $padding;
 
