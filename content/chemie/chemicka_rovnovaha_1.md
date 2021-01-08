@@ -11,12 +11,12 @@ date=2021-01-06
   $A+B \to C + D$
 
   - přímá reakce
-    - má rychlost $v_1$
+  - má rychlost $v_1$
 
   zároveň však probíhá $C + D \to A + B$
 
   - zpětná reakce
-    - má rychlost $v_2$
+  - má rychlost $v_2$
 
 - $v_1$ je zpočátku vysoká $\to$ postupně se zpomaluje $\to$ až se ustálí
 
@@ -104,6 +104,56 @@ Musí platit, že reakční soustavy
    $K_c=\frac{[C]\cdot[D]}{[A]\cdot[B]}$
 
    $K_c=4$
+
+
+
+### Faktory ovlivňující chemickou rovnováhu
+
+- Vliv podmínek na rovnovážné složení soustavy vysvětluje **Le Chatelierův princip akce a reakce**
+
+  $\to$*Porušením chemické rovnováhy vnějším zásahem (akcí) vyvolá děj (reakci), který směřuje ke zrušení účinku tohoto vnějšího zásahu, jímž byla chemická rovnováha porušena*
+
+- **Změnou koncentrace**
+
+  > *Zvýšení koncentrace reaktantů* $\to$ Zvýší se koncentrace produktů (Rovnováha se posouvá na stranu produktů)
+
+  > *Zvýšení koncentrace reaktantů* $\to$ Zvýší se koncentrace reaktantů (Rovnováha se posouvá na stranu reaktantů)
+
+  > $K_c$ se němení
+
+- **Změna teploty**
+
+  > $N_2O_4 \leftrightarrow 2NO_2$      $\Delta H=57.3kJ/mol$      $t_1<t_2$
+  >
+  > Původní rovnováha: $t_1$ $\to$ 4 moly $N_2O_4$ a 4 moly $NO_2$
+  >
+  > Nová rovnováha: $t_2$ $\to$ 2 moly $N_2O_4$ a 6 molů $NO_2$
+  >
+  > $\to$ **Rovnováha se posouvá na stranu produktů**
+
+  > $N_2 + 3H_2 \leftrightarrow 2NH_3$    $\Delta H=-91.9 kJ/mol$     $t_1$<$t_2$
+  >
+  > Původní rovnováha: $t_1$ $\to$ 2:6:4
+  >
+  > Nová rovnováha: $t_2$ $\to$ 3:9:2
+  >
+  > **Rovnováha se posouvá na stranu endotermické reakce**
+
+  > $K_c$ se mění se změnou teploty
+  >
+  > Zvýšení teploty $\to$ Rovnováha k endotermní reakci
+  >
+  > Snížení teploty $\to$ Rovnováha k exotermní reakci
+
+- **Změna tlaku (objemu)**
+
+  > $N_{2(g)} + 3H_{2(g)} \leftrightarrow 2NH_{3(g)}$ (Složky musí být plyny a musí být různý počet molů na obou stranách)
+  >
+  > Zmenším objem (zvětším tlak) $\to$ **Rovnováha se posune na stranu reakce, kde je méně molů**
+  >
+  > Zvětším objem (snížím tlak) $\to$ **Rovnováha se posune stranu reakce, kde je více molů**
+
+- **Katalyzátor nemá vlic na chemickou rovnováhu** (mění pouze hodnotu aktivační energie)
 
 ----
 
