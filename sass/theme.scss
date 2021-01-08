@@ -106,12 +106,13 @@ nav {
 }
 
 ul {
-    list-style-type: "-";
+    list-style-type: "- ";
     padding: 0;
 }
 
 li::marker {
     color: $green;
+    padding-right: 3px;
 }
 
 ul ul {
