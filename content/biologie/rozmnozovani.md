@@ -27,10 +27,48 @@ date=2020-01-07
 **Způsoby, kterým se rozdělí cytoplasma**
 
 1. Množení dělením - příčné dělení
+
 2. Množení Rozpadem - mitóza proběhne mnohokrát bez cytokineze $\to$ Rozpadne se
+
 3. Množení Pučením - U malárie - buňky prvoka (krvinkovky) se dostanou do krvinky - rozmnoží se $\to$ Krvinka praskne
 
+   Na membráně se vytvoří vychlípenina, kam se dostane jedno z jader, které vzniklo př mitóze a následně se oddělí
 
+   > **Dělení** - jedinec ztrácí identitu
+   >
+   > **Pučení** - jedinec neztrácí identitu
+
+### Nepohlavní dělení mnohobuněčných organismů
+
+- nový jedinec vždy vzniká ze skupiny mateřského organismu
+- často u skupin s velkou schopnosti regenerace (ostnokožci)
+
+**Strobilace**
+
+- Mnohobuněčné nepohlavní dělení
+- Zaškrcování
+- Díky vysoké regeneraci tkání vzniká na polypě strobila $\to$ Ephyra
+- Kombinuje se pohlavní a nepohlavní rozmnožování
+- *Strobilace* je nepohlavní část rozmnožování medůzovců
+- U rostlin *rodozměna*
+
+<img src="https://lh3.googleusercontent.com/proxy/UUT-pRMcJqEYaRozUKlBvTvOOGYlLBTLnDNlGTxQz8vJZyEd65WDreN7waHAgAhC4FCFjgUqANtEzqsSNPoXHOaU4k2Q6FhjUvyEXPmPrmV_NLLJ8PU45BEN8EM7KkPTi9MbcBLLuqirjubKX1qQ-OAxc8XhnI3j"  />
+
+
+
+>  **Nezmar** - mnohobuněčný organismus (Polypovci), který se rozmnožuje pučením z části
+>
+> Rozmnožuje se zároveň obouma způsoby
+
+> ***Polyembryonie*** - mnohozárodečnost
+>
+> zygota se rozdělí na dvě embryální buňky, ale ty vrátí zpět ve vývojovém stádiu
+>
+> $\to$ Vznikají dvě nepravé zygoty $\to$ Vznikají dva jedinci
+>
+> *Jednovaječná dvojčata je příklad polyembryonie*
+>
+> Některá zvířata využívají polyembryonii záměrně - *hmyz*, *pásovci*
 
 ---
 
@@ -44,5 +82,5 @@ pozn.
 
 $\to$ **Cytokineze** - Následuje po Mitóze, aby se dokončilo
 
-
+**Invitrofertilizace** - oplodnění v umělém prostředí
 
