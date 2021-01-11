@@ -52,7 +52,7 @@ date=2020-01-07
 - *Strobilace* je nepohlavní část rozmnožování medůzovců
 - U rostlin *rodozměna*
 
-<img src="https://lh3.googleusercontent.com/proxy/UUT-pRMcJqEYaRozUKlBvTvOOGYlLBTLnDNlGTxQz8vJZyEd65WDreN7waHAgAhC4FCFjgUqANtEzqsSNPoXHOaU4k2Q6FhjUvyEXPmPrmV_NLLJ8PU45BEN8EM7KkPTi9MbcBLLuqirjubKX1qQ-OAxc8XhnI3j"  />
+![](https://github.com/cervthecoder/github_images/blob/master/strobilace.png?raw=true)
 
 
 
