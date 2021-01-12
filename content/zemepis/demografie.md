@@ -28,8 +28,31 @@ date = 2021-01-05
 - **Fáze 4.**
   - Nízký růst
   - Razantně se snižuje porodnost
+  - Úmrtnost je vyšší než hrubá porodnost
 
 <img src="https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-01-05%20at%2016.02.38.png?raw=true" style="zoom:67%;" />
 
+### Babyboom
 
+- období, za které se statisticky rodí hodně dětí
+- Růst porodnosti
+- Většinou po válkách, nebo těžkých obdobích
+  - Primární babyboom - Po 1. sv válce
+  - Sekundární babyboom - Po 2. sv válce
+  - Tercialní babyboom - Husákovy děti
+
+- Přírust obyvatel může být způsoben i **migrací**
+
+1. Peru
+2. Rusko
+3. ČLR
+4. Afghanistan
+5. Německo
+6. SAE
+7. Niger
+8. USA
+9. Česká Republika
+10. Japonsko
+11. Švédsko
+12. Zimbabwe
 
