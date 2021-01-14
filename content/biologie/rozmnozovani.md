@@ -2,7 +2,7 @@
 
 title="Rozmnožování"
 
-date=2020-01-07
+date=2021-01-07
 
 +++
 
@@ -69,6 +69,30 @@ date=2020-01-07
 > *Jednovaječná dvojčata je příklad polyembryonie*
 >
 > Některá zvířata využívají polyembryonii záměrně - *hmyz*, *pásovci*
+
+### Pohlavní
+
+- je typické pro mnohobuněčné organismy
+- Nový jedinec vzniká spojením dvou pohlavním buněk
+- **Gamety**
+  - mikrogameta - spermie (samčí)
+  - makrogameta - vajíčka (samičí)
+- Pohlavní žlázy (*Gonady*) - pohlavní orgán produkující pohlavní buňky
+- **Hermafroditismus** - jeden jedinec má varlata i vaječníky
+  - Samooplození je velice vzácné
+  - Vývod vaječníků je vždy co nejdále od vývodu varlat
+  - Je zde i časová beariéra mezi aktivitou pohlavních žláz
+  - Tasemnice využívají mechanismus samooplození
+- **Gonochorismus** - jedinec má pouze jeden druh pohlavní žlázy
+
+> **Konjugace nálevníků** (nejvyvynutější jednobuněčné organismy - mají např 2 jádra)
+>
+> - *Makronukleus*
+> - *Mikronukleus*
+>   - několikrát se mitoticky rozdělí
+>   - Poté se rozpadne na haploidní
+>   - Ústy si každá vymění **migratorní** jádro (samčí)
+>   - Samičí buňka zůstává v buňce (**stacionární**)
 
 ---
 
