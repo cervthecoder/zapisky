@@ -13,7 +13,7 @@ date=2021-01-07
     - Nižší živočichové - prvoci
     - rychlý způsob rozmnožování
   - **pohlavní**
-    - vznikají pohlavní buňky (*haploidní* - mají jednu sadu chromozomů)
+    - vznikají pohlavní buňky $\to$ **Gameta** (*haploidní* - mají jednu sadu chromozomů)
     - samčí a samičí buňky se spolu setkávají a kombinují se v *zygotu* (diploidní)
     - Je komplikovanější
     - Nová generace je geneticky variabilní
@@ -77,7 +77,7 @@ date=2021-01-07
 - **Gamety**
   - mikrogameta - spermie (samčí)
   - makrogameta - vajíčka (samičí)
-- Pohlavní žlázy (*Gonady*) - pohlavní orgán produkující pohlavní buňky
+- Pohlavní žlázy (*Gonady*) - pohlavní orgán produkující pohlavní buňky (Varlata-testes x Vaječníky-ovarya)
 - **Hermafroditismus** - jeden jedinec má varlata i vaječníky
   - Samooplození je velice vzácné
   - Vývod vaječníků je vždy co nejdále od vývodu varlat
@@ -93,6 +93,31 @@ date=2021-01-07
 >   - Poté se rozpadne na haploidní
 >   - Ústy si každá vymění **migratorní** jádro (samčí)
 >   - Samičí buňka zůstává v buňce (**stacionární**)
+
+**epigamní chování** - chování související rozmnožování
+
+- Stavba ptačího hnízda
+- Lákání samce/samičky do hnízda
+- Vzorce chování jsou z hlediska času velmi stabilní $\to$ Spolehlivější při studiu taxonomie, než třeba morfologie
+
+>**Genotypové určení pohlaví**
+>
+>- V genu jedince jsou skupiny genů, které určují, jak samčí, tak samičí pohlaví
+>- Nad nimi jsou řídící geny, které určí, zdali je jedinec samec, či samice
+>- Je to nespolehlivé $\to$ Může dojít k mutaci
+>- Vzniká v průběhu života
+>
+>**Chromozomální určení pohlaví**
+>
+>- Je určené při oplodnění
+>- *Pohlavními Chromozomy* - **Gonozomy**/**Heterozomy**
+>- Autozomů je 44 (chromozomy řídící běžné funkce) 
+>- $X$ - ženský pohlavní chromozom
+>- $Y$ - mužský pohlavní chromozom
+>- $XY$ - muž - *Heterogamické pohlaví* 
+>- $XX$ - žena - *Homogamické pohlaví*
+>- U můžů vznikají dva druhy spermií - Jedny s $X$ a jedny s $Y$
+>- U ptáků je to naopak - samice je Heterogamická
 
 ---
 

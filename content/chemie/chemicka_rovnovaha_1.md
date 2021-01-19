@@ -153,7 +153,9 @@ Musí platit, že reakční soustavy
   >
   > Zvětším objem (snížím tlak) $\to$ **Rovnováha se posune stranu reakce, kde je více molů**
 
-- **Katalyzátor nemá vlic na chemickou rovnováhu** (mění pouze hodnotu aktivační energie)
+- **Katalyzátor nemá vliv**
+
+- ** na chemickou rovnováhu** (mění pouze hodnotu aktivační energie)
 
 ----
 

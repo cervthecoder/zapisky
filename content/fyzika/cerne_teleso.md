@@ -10,3 +10,9 @@ date=2020-11-10
 ![](https://github.com/cervthecoder/github_images/blob/master/IMG_5066.JPG?raw=true)
 ![](https://github.com/cervthecoder/github_images/blob/master/IMG_5068.JPG?raw=true)
 
+
+
+$L=SI$
+
+$L=4\pi r^2 \sigma T^4$
+
