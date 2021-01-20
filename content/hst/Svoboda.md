@@ -38,3 +38,14 @@ date=2021-01-13
 > **Svoboda x Pravidla**
 >
 > 1. K tomu mít svobodu je potřeba 
+
+### Svoboda v organizované modernitě
+
+- omezeně liberální identita
+- liberální : svobodomyslný
+- liberální společnosti - přicházejí s novými myšlenkami svobody
+- svoboda lze definovat na různých parametrech
+- liberální nemusí nezbytně znamenat svobodomyslné, nebo vedoucí ke svobodě
+- V minulosti se za liberální považovala i dynamická změna ve společnosti, která vedla pouze k částečné svobodě
+- liberálita - dynamický stav
+- proklamace - tvrdit něco nepravdivého
