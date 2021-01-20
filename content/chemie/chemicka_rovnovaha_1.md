@@ -119,7 +119,7 @@ Musí platit, že reakční soustavy
 
   > *Zvýšení koncentrace reaktantů* $\to$ Zvýší se koncentrace reaktantů (Rovnováha se posouvá na stranu reaktantů)
 
-  > $K_c$ se němení
+  > $K_c$ se nemění
 
 - **Změna teploty**
 
