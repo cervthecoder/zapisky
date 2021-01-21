@@ -10,6 +10,7 @@ date=2021-01-07
   - **nepohlavní**
     - základem je mitóza
     - Nový jedinec je geneticky naprosto identický
+    - Vzniká ze somatický buněk mateřského jedince
     - Nižší živočichové - prvoci
     - rychlý způsob rozmnožování
   - **pohlavní**
@@ -26,7 +27,7 @@ date=2021-01-07
 
 **Způsoby, kterým se rozdělí cytoplasma**
 
-1. Množení dělením - příčné dělení
+1. Množení dělením - příčné dělení (bičíkovci) x podélné (nálevníci)
 
 2. Množení Rozpadem - mitóza proběhne mnohokrát bez cytokineze $\to$ Rozpadne se
 
@@ -60,7 +61,7 @@ date=2021-01-07
 >
 > Rozmnožuje se zároveň obouma způsoby
 
-> ***Polyembryonie*** - mnohozárodečnost
+> ***Polyembryonie*** - mnohozárodečnost (dělení ve stádiu zárodečného vývoje)
 >
 > zygota se rozdělí na dvě embryální buňky, ale ty vrátí zpět ve vývojovém stádiu
 >
@@ -132,4 +133,10 @@ pozn.
 $\to$ **Cytokineze** - Následuje po Mitóze, aby se dokončilo
 
 **Invitrofertilizace** - oplodnění v umělém prostředí
+
+**prapohlavní buňky** = primordiální genocyty - již v zárodku se oddělují od somatických buněk
+
+**spermatogeneze**
+
+**oogeneze**
 
