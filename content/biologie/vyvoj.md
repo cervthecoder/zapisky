@@ -6,20 +6,23 @@ date=2021-01-21
 
 +++
 
-- vývoj jedince **ontogeneze**
+- Vývoj jedince - **ontogeneze**
 
   *Období od oplození až po smrt jedince*
 
   1. Období embryonálního vývoje
   2. Postembryonální období
 
-### Období embryonálního 
+### Období embryonálního (embryogeneze)
 
 - období *blastogeneze* a *organogeneze*
+- diferenciace embryálních buněk
 
 > **Blastogeneze** <br>
 >
-> Rýhování vajíčka a tvorba zárodečných listů <br>
+> Zygota $\to$ Morula $\to$ Blastula $\to$ Gastrula
+>
+> Rýhování (zvyšování počtu buněk) embrya a tvorba zárodečných listů <br>
 >
 > Zárodek témeř neroste <br>
 >
@@ -29,13 +32,49 @@ date=2021-01-21
 >
 > Vznikající buňky se neustále zmenšují <br>
 >
-> **Blastula** - konečný útvar rýhování
+> **Morula** - stádium, které vzniká mitotickým dělením zygoty (Blastomera $\to$ buňka v morule, každá je stejná)<br>
 >
-> **Gatrulace** - tvorba zárodečných listů $\to$ skupiny buněk se přesouvají na určená místa v zárodku
+> **Blastula** - konečný útvar rýhování, má v sobě dutinu $\to$ blastomery se tlačí k povrchu<br>
+>
+> **Gastrulace** - období, kdy se mění Blastula v Gastrulu $\to$ tvorba zárodečných listů $\to$ skupiny buněk se přesouvají na určená místa v zárodku $\to$ Invaginace (vchlípení endodermu do ektodermu) <br>
+>
+> **Entoderm** - vnitřní zárodečný (vnitřní skupina buněk) <br>
+>
+> **Ektoderm** - Vnější zárodeční list <br>
+>
+> **Mezoderm** - Někdy ještě jeden <br>
+>
+> **Diblastika** -živočichové s ektodermem a endodermem <br>
+>
+> **Triblastika** - živočichové ještě s mezodermem <br>
+>
+> **Prvostřevo **(gastroceol) - začátek stavby trávící soustavy (pokud mají zvířata pouze trávící dutinu, tak zůstávají prvoústa jako jediný útvor, který slouží pro výměnu látek s prostředím) 
+>
+> ![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-01-25%20at%2015.23.26.png?raw=true)
+>
+> **Zárodečný obal** - přímo neovlivňuje vývoj zárodku (není to zárodečný list)
+>
+> U obratlovců se v ektodermu část buněk vchlípí dovnitř (**neurulace**) a vytáří se prvotní nervová trubice
+
+
+
+<br>**Invaginace** (vchlipování zárodečného listu do blastocoel)
+
+![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-01-25%20at%2015.25.16.png?raw=true)
+
+
+
+
 
 >  **Organogeneze**<br>
 >
-> Růst orgánů a celého zárodků<br>
+>  Růst orgánů a celého zárodků<br>
+>
+>  **Ektoderm** $\to$ Pokožkové útvary, Pokožka, Nervový systém, smyslové orgány a vzdušnice hmyzu<br>
+>
+>  **Endoderm** $\to$ Část výstelky trávící trubice, Játra, Slinivka, Plíce, Žlázy s vnitřní sekrecí<br>
+>
+>  **Mezoderm** $\to$ Svaly a pojiva, Kostra, Krev, Cévy, Srdce, Močopohlavní soustava
 
 ### Postembryonální období
 
