@@ -49,3 +49,17 @@ date=2021-01-13
 - V minulosti se za liberální považovala i dynamická změna ve společnosti, která vedla pouze k částečné svobodě
 - liberálita - dynamický stav
 - proklamace - tvrdit něco nepravdivého
+
+- *Svoboda byla vpletena do call organizací*
+
+- Konvencionalizace - vytvoření způsobu života, koleje, jež mohou být nataženy kamkoliv, aniž by někde vypadali a fungovali jinak
+
+  - dálnice
+  - kantýny
+  - televizní programy
+
+- Konzervativci - individualismus ohrožuje tradiční společnost
+
+- Svoboda není zase tak ničivá - svobodná individualita je pouze částečná - člověk si namlouvá, že je svobodný, ale doopravdy není a je manipulován ostatními (politická manipulace)
+
+  
