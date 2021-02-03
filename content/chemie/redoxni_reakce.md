@@ -38,13 +38,17 @@ date=2021-01-20
 
 ### Vyčíslování chemických rovnic
 
-**Pravidlo 1.**
+**Pravidlo 1.**<br>
 
-Prohodíme počty proměněných elektronů a vynásobím jejich počtem všechny členy z opačné polorovnice
+Prohodíme počty proměněných elektronů a vynásobím jejich počtem všechny členy z opačné polorovnice <br>
 
-**Pravidlo 2.**
+**Pravidlo 2.**<br>
 
 Dále jednoduchou bilancí vyčíslíme prvky $\to$ **Kovy**, **nekovy**, **vodík**. a kyslík je až zkouška zprávnosti<br>
+
+**Pravidlo 3.**<br>
+
+Při redoxních dějích s $O_2$ doplňujeme stechiometrické koeficienty jenom před kyslík, kterého změna je jednoznačná. (Vyplývá přímo z poloreakcí)
 
 
 
@@ -71,4 +75,28 @@ Dále jednoduchou bilancí vyčíslíme prvky $\to$ **Kovy**, **nekovy**, **vod�
 >  $3\cdot2I^I + 3\cdot2e^- \to 3I^0_2$
 >
 > $Cr_2^{VI} -6e^- \to Cr_2^{III}$
+
+### Oxidační a redukční činidlo
+
+- *Redoxní vlastnosti látek*
+- **oxidační činidlo** *(látka s ox. účinky)* $\to$ látka, která se sama redukuje (přjímá elektrony) a vyvolá oxidaci jiné látky
+- **redukční činidlo** *(látka s reduk. účinky)* $\to$ látka, která se sama oxiduje (odevzdává elektrony) a vyvolá redukcii jiné látky
+
+### Pokračování
+
+>  $3Zn + 14HCl + K_2Cr_20_7 \to  3ZnCl_2 + 2KCl + 2CrCl_3 + 7H_2O$ <br>
+>
+> $2Cr^{VI} + 6e^- \to 2Cr^{III}$<br>
+>
+> $3Zn^0 - 3\cdot 2e^- \to 3Zn^{II}$
+>
+> $Zn$ $\to$ redukční činidlo
+>
+> $K_2Cr_2O_7$ $\to$ oxidační činidlo
+
+***Určování redoxních vlastností látek*** <br>
+
+- Každý prvek může mít oxidační číslo=0 $X^0$$\to$ čistý prvek
+- Maximální hodnota ox. čísla je většinou číslo skupiny, ve které je v PSP
+- Maximální záporná hodnota $\to$ Kolik chybí ve valenční vrstvě elektronů do oktetu (**Kovy nikdy nemají**; *Jenom nekovy, nebo polokovy*)
 
