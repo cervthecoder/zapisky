@@ -18,7 +18,9 @@ author: Kateřina Zusková
 
 ![](https://github.com/cervthecoder/github_images/blob/master/Vyvoj_zivocichu_210128_091601_3.jpg?raw=true)
 
-![](https://github.com/cervthecoder/github_images/blob/master/Vyvoj_zivocichu_210128_091601_4.jpg?raw=true)
+![](https://github.com/cervthecoder/github_images/blob/master/vyvoj_zivocivhu_partogenxe.jpg?raw=true)
+
+
 
 
 
