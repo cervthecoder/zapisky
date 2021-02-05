@@ -61,5 +61,3 @@ date=2021-01-13
 - Konzervativci - individualismus ohrožuje tradiční společnost
 
 - Svoboda není zase tak ničivá - svobodná individualita je pouze částečná - člověk si namlouvá, že je svobodný, ale doopravdy není a je manipulován ostatními (politická manipulace)
-
-  
