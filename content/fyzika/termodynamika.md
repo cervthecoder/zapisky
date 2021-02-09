@@ -1,12 +1,12 @@
 +++
 
-tiitle="Termodynamika"
+title="Termodynamika"
 
 date=2021-02-08
 
 +++
 
-- **výměna tepla** - $Q=mc \Delta t$
+- **výměna tepla** - $Q=mc \Delta t$ (energie dodaná tělesu o hmotnosti $m$ s měrnou tepelnou kapacitou $c$  o teplotním rozdílu $\Delta t$)
   - $m[kg] \to$ hmotnost tělesa
   - $c \to[J\cdot Kg^{-1}\cdot K^{-1}]$ měrná tepelná kapacita
   - $\Delta t \to[K]$ Změna teploty
@@ -59,7 +59,9 @@ přenos vnitřní energie
 
 > **Výměna prouděním** <br>
 >
-> Vnitřní energie přenáší proudící tekutina. V tíhovém poli $\to$ teplejší tekutina stoupá a studenější klesá (způsobeno rozdílem hustoty) $\to$ Při tomto proudění si mezi sebou molekuly tekutiny vyměnují energii
+> Vnitřní energie přenáší proudící tekutina. V tíhovém poli $\to$ teplejší tekutina stoupá a studenější klesá (způsobeno rozdílem hustoty) $\to$ Při tomto proudění si mezi sebou molekuly tekutiny vyměnují energii<br>
+>
+> Příklad $\to$ Ve zkumavce zahříváme vodu nad plamenem kahanu. Molekuly ze spodu zkumavky proudí vzhůru, neboť má kapalina při plamenu kahanu nižší hustotu. $\to$ Při tomto proudění se mezi molekulami vyměňuje energie.
 
 > **Výměna vedením** <br>
 >
@@ -67,15 +69,19 @@ přenos vnitřní energie
 >
 > Nejlépe vodí teplo kovy $\to$ Energii přenáší převážně elektrony elekteronového plynu <br>
 >
-> ​	V nevodičích teplo přenášejí sami rozkmitané částice
+> V nevodičích teplo přenášejí sami rozkmitané částice <br>
 >
-> Nejhoršími vodiči jsou plyny $\to$ Částice jsou daleko od sebe
+> Nejhoršími vodiči jsou plyny $\to$ Částice jsou daleko od sebe <br>
+>
+> Příklad $\to$ Na jednom konci zahříváme mosaznou tyč. Po chvíli zahřívání se zvyšuje teplota i na druhém konci tyče. 
 
 > **Vedení zářením (sáláním)**<br>
 >
 > Výměna se uskutečňuje pohlacováním a vyzařováním elektromagnetického záření.<br>
 >
-> Vyzařování elektromagnetického záření je podmmíněno neuspořádaným pohybrm částic v tělese. <br>
+> Vyzařování elektromagnetického záření je podmmíněno neuspořádaným pohybem částic v tělese. 
+>
+> Příklad $\to$ Slunce vyzařuje tepelnou energii v podobě elektromagentického záření, část tohoto záření dopadá na povrch země a naší atmosféry $\to$ Zahřívá se <br>
 >
 > **Tepelné záření**
 
