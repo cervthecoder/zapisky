@@ -52,7 +52,7 @@ date=2021-01-04
 >
 > 4 skupiny pohárků $\to$ horřko, slano, sladko, kyselo
 
-> **Založené na fotoreceptorech**<br> drážditelné na intenzitu světa <br>
+> **Založené na fotoreceptorech **(zrak)<br> drážditelné na intenzitu světa <br>
 >
 > miskovitá, pohárkovitá očka $\to$ sítnice je vchlípena do těla<br>
 >

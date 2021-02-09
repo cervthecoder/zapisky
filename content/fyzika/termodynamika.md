@@ -57,11 +57,25 @@ přenos vnitřní energie
 
 3 základní typy $\to$ Proudění, Vedení a Sálání
 
-> **Proudění** <br>
-
-> **Vedení** <br>
-
-> **Sálání**<br>
+> **Výměna prouděním** <br>
 >
-> 
+> Vnitřní energie přenáší proudící tekutina. V tíhovém poli $\to$ teplejší tekutina stoupá a studenější klesá (způsobeno rozdílem hustoty) $\to$ Při tomto proudění si mezi sebou molekuly tekutiny vyměnují energii
+
+> **Výměna vedením** <br>
+>
+> Tepelná výměna uvnitř tělesa. (Energie přechází z míst s vyšší energií do míst s vyšší energií) <br>
+>
+> Nejlépe vodí teplo kovy $\to$ Energii přenáší převážně elektrony elekteronového plynu <br>
+>
+> ​	V nevodičích teplo přenášejí sami rozkmitané částice
+>
+> Nejhoršími vodiči jsou plyny $\to$ Částice jsou daleko od sebe
+
+> **Vedení zářením (sáláním)**<br>
+>
+> Výměna se uskutečňuje pohlacováním a vyzařováním elektromagnetického záření.<br>
+>
+> Vyzařování elektromagnetického záření je podmmíněno neuspořádaným pohybrm částic v tělese. <br>
+>
+> **Tepelné záření**
 
