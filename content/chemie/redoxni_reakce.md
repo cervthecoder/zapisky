@@ -112,7 +112,7 @@ Při redoxních dějích s $O_2$ doplňujeme stechiometrické koeficienty jenom 
    >
    > Kyslík, Fluor, chlor, brom jód, dusík
 
-2. Oxidační činidla (látká odevzdává elektrony $\to$ oxidují) $\to$ typicky **Kovy**
+2. Redukční činidla (látká odevzdává elektrony $\to$ oxidují) $\to$ typicky **Kovy**
 
    > Nízký počet valenčních elektronů <br>
    >
