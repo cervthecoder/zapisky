@@ -56,11 +56,49 @@ date=2021-01-04
 >
 > miskovitá, pohárkovitá očka $\to$ sítnice je vchlípena do těla<br>
 >
-> Komorové oko (typické pro obratlovce) $\to$ Vytváři struktury, které pomáhá přivádět a směrovat světlo <br>
+> Komorové oko (typické pro obratlovce) $\to$ Vytváři struktury, které pomáhá přivádět a směrovat světlo
 >
-> ![](https://github.com/cervthecoder/github_images/blob/master/unnamed.jpg?raw=true)<br>
+> ![](https://github.com/cervthecoder/github_images/blob/master/Schematic_diagram_of_the_human_eye_cs.svg.png?raw=true)<br>
 >
-> Inverzní sítnice - fotoreceptory jsou až nakonci strany sítnice
+> Inverzní sítnice - fotoreceptory jsou až nakonci strany sítnice<br>
+>
+> *Refrakční vady $\to$* Krátkozrakost x Dalekozrakost <br>
+>
+> Žlutá skvrna $\to$ Místo s nejostřejším a nejbarevnějšíím obrazem <br>
+>
+> Zrakový nerv $\to$ Svazek vodivých axonů gangliových buněk <br>
+>
+> Slepá skvrna $\to$ Místo v sítnici, kde nejsou žádné receptory $\to$ Aby nedocházelo k podráždění očního nervu <br>
+>
+> **Přídavné struktury oka** <br>
+>
+> Víčka <br>
+>
+> Spojivka <br>
+>
+> Oko hybné svaly <br>
+>
+> **Vady oka** <br>
+>
+> $\to$ **Zelený zákal** <br>
+>
+> řasnaté těleso produkuje nadměřné množství komorového moku $\to$ Zvýšení vnitroočního tlaku <br>
+>
+> $\to$ **Šedý zákal** <br>
+>
+> zakalení čočky <br>
+>
+> $\to$ **Dalekozrakost** <br>
+>
+> Paprsky se protínají za sítnicí - *spojky* <br>
+>
+> $\to$ **Krátkozrakost** <br>
+>
+> Paprsky se protínají před sítnicí - *rozptylky* <br>
+>
+> $\to$ **Daltonismus** <br>
+>
+> Vada, která je způsobena poškozením na chromosomu X (častěji u mužů - mají jenom jedno X) $\to$ Gonosomálně recesivní choroba $\to$ Rozpoznávání červené a zelené barvy <br>
 
 ---
 
@@ -74,4 +112,6 @@ $\to$ celková (globální) - vyřadí se mozková centra, která mají na staro
 
 Schopnost vnímat bolest je ovlivňená emočními stavy <br>
 
-Ve fyziologické šoku je schopnost vnímat bolest potlačená
+Ve fyziologické šoku je schopnost vnímat bolest potlačená<br>
+
+Akomodace - zaostřování změnou tvaru čočky
