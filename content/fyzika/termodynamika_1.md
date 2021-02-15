@@ -1,6 +1,6 @@
 +++
 
-title="Termodynamika"
+title="Termodynamika 1."
 
 date=2021-02-08
 
@@ -46,6 +46,18 @@ voda $\to$$t=20^{\circ}C$
 $Q=Q_1 + L + Q_2$ $\to$ $Q_1$ z ledu na vodu (-10 až 0); $Q_2$ ohřívání vody z 0 až 20; $L$ je **měrné skupenské teplo tání**
 
 $Q=m_1c_1(t_t-t_1) + m_1l_1 +m_1c_2(t-t_t)$
+
+### Příklad 3.
+
+$m=0.5kg$, $t_1=20^{\circ}C$, $P=2000W$, $T=6 min$, $l_v=2260kJ/kg$
+
+$Q=PT = 720KJ$ $\to$ teplo dodané vařičem
+
+$Q=mc(t_v-t_1)=168kJ$ $\to$ převedení na teplotu varu
+
+$L=l_vm=1130kJ$ $\to$ Energie potřebná k převedení půl kila vody do páry
+
+> Zbývá nám $720-168=552kJ$, ale my potřebujeme $1130kJ$, takže se odpaří zhruba polovina
 
 
 

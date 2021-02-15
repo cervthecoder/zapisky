@@ -99,6 +99,38 @@ date=2021-01-04
 > $\to$ **Daltonismus** <br>
 >
 > Vada, která je způsobena poškozením na chromosomu X (častěji u mužů - mají jenom jedno X) $\to$ Gonosomálně recesivní choroba $\to$ Rozpoznávání červené a zelené barvy <br>
+>
+> **Složené oko hmyzu**
+>
+> omatidium - jedno očko v hmyzím oko
+>
+> $\to$ Má vlastní aparát - vlastní receptory etc.
+>
+> <img src="https://github.com/cervthecoder/github_images/blob/master/download.jpeg?raw=true" style="zoom:200%;" />
+>
+> reaguje výborně na změnu intenzity světla a pohy v okolí
+>
+> problém s obrazovou realitou
+
+> **Smyslové orgány založené na mechanoreceptorech**
+>
+> Mechanoreceptor + struktura, která soustředí vzruch do jednoho místa
+>
+> **Tělíska**
+>
+> *Meissnerovo tělísko* - hmatová tělíska, která jsou pod pokožkou
+>
+> *Vatter-Paciniho tělíska* - také v kůži ale hloubš
+>
+> hmatové orgány
+>
+> proudové orgány - u ryb kanálek pod pokožkou, ve které jsou mechanoreceptory $\to$ Zaznamenávají změny v proudění (chvění, vibrace ve vodě) vody kolem těla živočicha
+>
+> orgány rovnováhy - *statocista* $\to$ dutina, jejíž vnitřní povrch je z mechanoreceptorů $\to$ Uvnitř je zrnko písku, krystal etc.
+>
+> <img src="https://github.com/cervthecoder/github_images/blob/master/download%20(1).jpeg?raw=true" style="zoom:200%;" />
+>
+> *U člověka* - Utriculus a Sacculus $\to$ Váčky ve vnitřním uchu, které zprostředkovávají orgán rovnováhy
 
 ---
 
