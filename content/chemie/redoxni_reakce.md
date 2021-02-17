@@ -136,3 +136,35 @@ $H^I$ x $H^{-I}$ - záleží na reakční partnerovi
 
   $H_2SO_4$ - tady je to síra v $S^{VI}$ $\to$ už nemůže oxidovat, může jenom redukovat $\to$ **Oxidační činidlo**
 
+### Příklady
+
+1. $6KBr + K_2Cr_2O_7 + 7H_2SO_4 \to 3Br_2 + Cr_2(SO_4)_3 + 4K_2SO_4 + 7H_2O$
+
+   $3\cdot 2Br^{-I}-3\cdot2e^-\to 3\cdot Br_2^0$ $\to$ oxidace
+
+   $2Cr^{VI} +6e^-\to 2Cr^{III}$ $\to$ redukce
+
+2. $2NaNO_2 + 2KI + 2H_2SO_4 \to 2NO + I_2 + K_2SO_4 + Na_2SO_4 + 2H_2O$
+
+   $2I^{-I} - 2 e^- \to I_2^0$ $\to$ oxidace
+
+   $2N^{III} + 2e^- \to 2N^{II}$ $\to$ redukce
+
+3. $Sb_2O_3 + 2Br_2 + 10KOH \to 2K_3SbO_4 + 4KBr + 5H_2O$
+
+   $2Sb^{III} - 4e^- \to 2Sb^{V}$ $\to$ oxidace
+
+   $2Br_2^0 + 2\cdot 2e^- \to 2\cdot 2Br^{-I}$
+
+4. $H_3PO_3 + H_2O + Br_2 \to 2HBr + H_3PO_4$
+
+   $P^{III}-2e^- \to P^{V}$ $\to$ oxidace
+
+   $Br_2^0 + 2e^- \to 2Br^{-I}$ $\to$ redukce
+
+5. $6Ca(OH)_2 + 6Cl_2 \to Ca(ClO_3)2 + 5CaCl_2 + 6H_2O$  **Disproporcionace**
+
+   $Cl_2^0 - 10e^- \to 2Cl$  $\to$ oxidace
+   
+   $5Cl_2^0 + 5\cdot2e^- \to 5Cl^{-I}$ $\to$ redukce
+
