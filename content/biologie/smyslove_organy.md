@@ -100,37 +100,57 @@ date=2021-01-04
 >
 > Vada, která je způsobena poškozením na chromosomu X (častěji u mužů - mají jenom jedno X) $\to$ Gonosomálně recesivní choroba $\to$ Rozpoznávání červené a zelené barvy <br>
 >
-> **Složené oko hmyzu**
+> **Složené oko hmyzu** <br>
 >
-> omatidium - jedno očko v hmyzím oko
+> omatidium - jedno očko v hmyzím oko <br>
 >
-> $\to$ Má vlastní aparát - vlastní receptory etc.
+> $\to$ Má vlastní aparát - vlastní receptory etc. <br>
 >
-> <img src="https://github.com/cervthecoder/github_images/blob/master/download.jpeg?raw=true" style="zoom:200%;" />
+> <img src="https://github.com/cervthecoder/github_images/blob/master/download.jpeg?raw=true" style="zoom:200%;" /> <br>
 >
-> reaguje výborně na změnu intenzity světla a pohy v okolí
+> reaguje výborně na změnu intenzity světla a pohy v okolí <br>
 >
-> problém s obrazovou realitou
+> problém s obrazovou realitou <br>
 
-> **Smyslové orgány založené na mechanoreceptorech**
+> **Smyslové orgány založené na mechanoreceptorech** <br>
 >
-> Mechanoreceptor + struktura, která soustředí vzruch do jednoho místa
+> Mechanoreceptor + struktura, která soustředí vzruch do jednoho místa <br>
 >
-> **Tělíska**
+> **Tělíska** <br>
 >
-> *Meissnerovo tělísko* - hmatová tělíska, která jsou pod pokožkou
+> *Meissnerovo tělísko* - hmatová tělíska, která jsou pod pokožkou <br>
 >
-> *Vatter-Paciniho tělíska* - také v kůži ale hloubš
+> *Vatter-Paciniho tělíska* - také v kůži ale hloubš <br>
 >
-> hmatové orgány
+> hmatové orgány <br>
 >
-> proudové orgány - u ryb kanálek pod pokožkou, ve které jsou mechanoreceptory $\to$ Zaznamenávají změny v proudění (chvění, vibrace ve vodě) vody kolem těla živočicha
+> proudové orgány - u ryb kanálek pod pokožkou, ve které jsou mechanoreceptory $\to$  Zaznamenávají změny v proudění (chvění, vibrace ve vodě) vody kolem těla živočicha <br>
 >
-> orgány rovnováhy - *statocista* $\to$ dutina, jejíž vnitřní povrch je z mechanoreceptorů $\to$ Uvnitř je zrnko písku, krystal etc.
+> orgány rovnováhy - *statocista* $\to$ dutina, jejíž vnitřní povrch je z mechanoreceptorů $\to$ Uvnitř je zrnko písku, krystal etc. <br>
 >
-> <img src="https://github.com/cervthecoder/github_images/blob/master/download%20(1).jpeg?raw=true" style="zoom:200%;" />
+> <img src="https://github.com/cervthecoder/github_images/blob/master/download%20(1).jpeg?raw=true" style="zoom:200%;" /> <br>
 >
-> *U člověka* - Utriculus a Sacculus $\to$ Váčky ve vnitřním uchu, které zprostředkovávají orgán rovnováhy
+> *U člověka* - Utriculus a Sacculus $\to$ Váčky ve vnitřním uchu, které zprostředkovávají orgán rovnováhy <br>
+>
+> **Sluch**<br>
+>
+> Defomace mechanoreceptorů zvukovými vlnami z postředí ,br>
+>
+> Sluchové orgány <br>
+>
+> U hmyzu stridulace $\to$ Dorozumívání (tympanální orgány jsou sluchové orgány hmyzu) <br>
+>
+> U obratlovců to jsou uši <br>
+>
+> ![](https://github.com/cervthecoder/github_images/blob/master/ucho.png?raw=true)<br>
+>
+> Eustachova trubice $\to$ Vede do nosohltanu (pro vyrovnávání tlaku) <br>
+>
+> V hlemýždi je Cortiho sluchový orgán <br>
+>
+> 
+
+> **Termoreceptory** - Krauserova tělíska (chlad) a Rufiniho tělíska (teplo) $\to$ Reagují na změnu teploty
 
 ---
 
