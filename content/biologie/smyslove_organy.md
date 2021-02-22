@@ -146,9 +146,35 @@ date=2021-01-04
 >
 > Eustachova trubice $\to$ Vede do nosohltanu (pro vyrovnávání tlaku) <br>
 >
-> V hlemýždi je Cortiho sluchový orgán <br>
+> V hlemýždi je Cortiho sluchový orgán $\to$ tvořího mechanoreceptory (vlásky) <br>
 >
-> 
+> ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cochlea-crosssection.svg/1200px-Cochlea-crosssection.svg.png)<br>
+>
+> Nižší frekvence $\to$ Dostávájí se v blanitém hlemyždí dále <br>
+>
+> Vyšší frekvence $\to$ Dráždí mechanoreceptory na blíže k začátku
+>
+> $\to$ Rozlišuje podle toho zdali jsou tóny vysoké, či nízké <br>
+>
+> Na hluboké tóny je hlemýžď citlivější <br>
+>
+> Kórové centrum sluchu je ve spánkvém laloku (symetrický) <br>
+>
+> Wernickeova kórová oblast $\to$ rozpoznávání slov (asymetrický) <br>
+
+**Zvukové pole**
+
+- frekvenční rozsah sluchu (16Hz až 20kHz)
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sluchov%C3%A9_pole_-_Graf.png/1280px-Sluchov%C3%A9_pole_-_Graf.png)
+
+**Izofóny**
+
+- křivky *stejné hlasitosti*
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Akustik_db2phon.jpg)
+
+  
 
 > **Termoreceptory** - Krauserova tělíska (chlad) a Rufiniho tělíska (teplo) $\to$ Reagují na změnu teploty
 
@@ -166,4 +192,7 @@ Schopnost vnímat bolest je ovlivňená emočními stavy <br>
 
 Ve fyziologické šoku je schopnost vnímat bolest potlačená<br>
 
-Akomodace - zaostřování změnou tvaru čočky
+Akomodace - zaostřování změnou tvaru čočky <br>
+
+Afázie - poškození určitého kórového centra
+
