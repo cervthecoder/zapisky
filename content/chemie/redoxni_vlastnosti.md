@@ -62,7 +62,37 @@ $H^I$ x $H^{-I}$ - záleží na reakční partnerovi
 
   - $H_2S$, Halogenidy (hlavně smíšené $ClBr$), $NH_3$, $CO$, $H_2O_2$ (obě části sloučeniny mají redoxní vlastnosti)
 
-  - uhlík je oxidační/redučkní činidlo podle redoxních vlastností reakčního partnera
+    $O_2^{-I}$ $\to$ $O_2^{-II}$ x $O_2^{0}$ (může oxidovat i redukovat)
 
+  - uhlík je oxidační/redučkní činidlo podle redoxních vlastností reakčního partnera
+  
+  **Emperiment 1.**
+  
+  - $KMnO_4{(aq)}$
+  - $H_2SO_4{(aq)}$
+  - $H_2O_2{(aq)}$
+  
+  $2KMnO_4 + 3H_2SO_4 + 5H_2O_2 \to 5O_2 + 2MnSO_4 + K_2SO_4 + 8H_2O$<br>
+  
+  (pravidlo: kovů se zbavuji jako solí kyseliny; při reakci unikali bublinky $\to$ kyslík)<br>
+  
+  oxidace : $5O_2^{-I}-5\cdot2e^- \to 5O_2^{0}$<br>
+  
+  redukce: $2Mn^{VII} +2\cdot5e^- \to 2Mn^{II}$<br>
+  
+  **Hypermangan je oxidační činidlo**<br>
+  
+  **Peroxid vodíku je redukční činidlo**<br>
+  
+  
+  
+  **Experiment 2.**
+  
+  - $KI_{(aq)}$
+  - $H_2SO_{4(aq)}$
+  - $H_2O_{2(aq)}$
+  
+  $2KI + H_2SO_4 + H_2O_2 \to I_2 + K_2SO_4 + 2H_2O$
+  
   
 
