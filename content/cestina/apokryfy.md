@@ -12,3 +12,25 @@ Román o Pilátovi
 
 ### Postava Jidáše v apokryfní literatuře
 
+### Preussler
+
+- memento mori
+
+stavěje, nedopřávajíce
+
+
+
+reptání - brumlání
+
+hašteření - škádlení
+
+úradku - úsadku
+
+mimovolně - bezděčně
+
+zpěčoval - vzdoroval
+
+mrzce - potupně
+
+
+
