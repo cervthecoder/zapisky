@@ -1,6 +1,6 @@
 +++
 
-title="Stavová rovnice a ekvipartiční theorém"
+title="Vlastnosti plynů"
 
 date=2021-02-08
 
