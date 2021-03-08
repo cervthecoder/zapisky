@@ -8,7 +8,9 @@ date=2021-02-08
 
 ### Ideální plyn
 
-1. Rozměry molekul ideálního plynu jsou ve srovnání se střední velikosti vzdálenosti molekul od sebe zanedbatelně malé
+- model, který se snadno popisuje
+
+1. Rozměry molekul ideálního plynu jsou ve srovnání se střední velikosti vzdálenosti molekul od sebe zanedbatelně malé $\to$ **Je dokonale stlačitelný**
 2. Molekuly ideálního plynu mimo vzájemné srážky na sebe vzájemně nepůsobí
 3. Vzájemné srážky molekul ideálního plynu a srážky srážky těchto molekul se stěnou nádoby jsou dokonale pružné
 
