@@ -42,7 +42,7 @@ date=2021-02-08
 
 **Střední kvadratická rychlost0**
 
-$v0_k=\sqrt{\frac{3kT}{m_0}}$
+$v_k=\sqrt{\frac{3kT}{m_0}}$
 
 kde *k* $\to$ Boltzmanova konstanta; *T* $\to$ Termodynamická teplota; $m_0$ $\to$ hmotnost molekuly ideálního plynu
 
