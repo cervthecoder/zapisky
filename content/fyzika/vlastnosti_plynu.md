@@ -38,8 +38,6 @@ date=2021-02-08
 
   ![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-03-08%20at%2014.01.13.png?raw=true)
 
-
-
 **Střední kvadratická rychlost0**
 
 $v_k=\sqrt{\frac{3kT}{m_0}}$
@@ -50,10 +48,13 @@ Vychází ze vztahů pro střední kinetickou energii molekuly ideální plynu
 
  $\to$ $E_0=\frac{1}{2}m_0v_k^2=\frac{3}{2}kT$
 
-### Stavová rovnice pro ideální plyny
+
+
+### Stavová rovnice pro ideální plyny (Clapeyronova rovnice)
 
 - Spojuje stavové veličiny do jednoho vztahu pro popis ideálního plynu
-- střední hodnota tlaku plynu $\to$ $p=\frac{N}{V}m_0v_k^2$ ($v_k=\sqrt{\frac{3kT}{m_0}}$)
+- střední hodnota tlaku plynu $\to$ $p=\frac{1}{3}\frac{N}{V}m_0v_k^2$ ($v_k=\sqrt{\frac{3kT}{m_0}}$)
+  - tlak $\to$ **Objemová hustota energie**
 - $pV=NkT$ $\to$ $N=nN_a$
 - $pV=nN_akT$ $\to$ $N_ak=R$ (Rienmanova konstanta)
 - <u>$pV=nRT$</u>
