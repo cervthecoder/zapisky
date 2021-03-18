@@ -72,19 +72,94 @@ $\to$
 **Mihule**
 
 - ektoparaziti
+
 - přisávají se na kůži vodních živočichů a živí se na jejich tkáni
+
 - gonochoristi
 
-**Sliznatky**
+  **Sliznatky**
 
 - složitá stavba úst
+
 - živí se masitou potravou $\to$ často mršinami
+
 - dorůstají velikosti do 110 cm
+
 - jsou to hermafroditi
+
 - slizovitý obal
+
 - žijí ve velkých hloubkách
 
 **čelistnatci**
+
+- vyrůsta ze žaberního oblouku
+
+- žaberní šterbiny jsou místo, kde trávící ústrojí vyměňuje věci s okolím
+
+  **paryby**
+
+  - mořští živočichové
+
+  - mají chordu
+
+  - torpédovitý tvar těla
+
+  - vnitřní kostra paryb je pouze s chrupavky
+
+  - jediná kostní tkáň jsou zuby a šupiny
+
+  - stavba těla = hlava + trup + končetiny (ploutve)
+
+  - prsní - břišní - řitní - ocasní - hřbetní ploutev
+
+  - ocasní plotev je heterocerkní $\to$ větši horní lalok - zasahuje do něj chorda
+
+  - tělní pokryv
+
+    - kožní skelet
+    - kůže s plakoidními šupinami
+    - plakoidní šupiny $\to$ stvba odpovídá zubům, jsou pokryté sklovinou, na čelistech zesilují
+
+  - vynikající plavci
+
+  - boční sval je rozdělen na myomery
+
+  - zuby vyrůstají v řadách a neustále se obměňují
+
+  - redukovaný plynný měchýř (téměř ho nemají)
+
+  - žaberními štěrbinami voda proudí do žaber $\to$ fungují pasivn - neumí vody polykat - nesmí se zatsavit!
+
+  - srdce je venózní - žilné
+
+  - v krvi je přítomno značné množství močoviny
+
+  - nejdokonalejším smyslem je čich
+
+    - obrovské laloky mozku, které ten čich zpracovávají
+
+  - žralok obrovský $\to$ filtrátor
+
+  - žralok velký $\to$ filtrátor
+
+  - rozmnožování
+
+    - pohlavní
+    - oplození vnitřní
+    - samci mají prodloužené břišní ploutve $\to$ Pterygopody
+    - paryby jsou vejcorodí i živorodí
+
+    **příčnoústí**
+
+    - mají rypec (špičaté zakončení hlavy)
+    - ústní otvor na spodní straně těla
+    - rejnoci, žraloci
+
+​				**chyméry**
+
+					- archaická stvoření
+					- žijí v mořských hloubkách
 
 
 
