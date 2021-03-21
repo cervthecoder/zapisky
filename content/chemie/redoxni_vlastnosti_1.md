@@ -47,10 +47,15 @@ $Mg>Zn>Fe>Cu$
 
 **Beketovova řada kovů**
 
- <img src="https://lh3.googleusercontent.com/proxy/Tn4pKL-VdMSiBAwwW9jGMpXRwi7GgxG-DHY0rE5MChcMtfVvW6Xq3XaLTIfLA2t95L_0gf9dyYt_DoNMLvFqNMEvEEERgbQ" style="zoom:150%;" />
+![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-03-19%20at%2012.45.28.png?raw=true)
 
 - Na levo od vodíku - *Neušlechtilé kovy* $\to$ lehce se oxidují (redukční účinky)
+
 - Na pravo od vodíku - *Ušlechtilé kovy* $\to$ těžce se oxidují "lehce se redukují" (oxidační účinky)
+
+- Kovy jsou seřazeny podle klesajících redoxních účinků
+
+  > Uspořádání kovů podle klesajících redoxních účinků (klesaící redoxních potenciálu)
 
 ***Neušlechtilé***
 
@@ -61,7 +66,16 @@ $Mg>Zn>Fe>Cu$
 **Ušlechtilé kovy**
 
 - neradi se oxidují $\to$ raději se redukují
+
 - oxidační účinky
+
 - nereagují se zředěnými kyselinami
-- některé s koncetrovanými a zlato pouze s lučavkou královskou
+
+- některé s koncetrovanými a zlato pouze s lučavkou královskou[$3HCl + HNO_3$] (kyseliny se silnými oxidačními účinky)
+
+  $\to$ *silné oxidační činidla* ($HNO_3, H_2SO_4$)
+
 - v přírodě se vyskytují i ryzí
+
+- $Cu + 2HNO_33 \to CuNO_3 + NO_2 + H_2O$
+
