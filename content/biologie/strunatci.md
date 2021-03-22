@@ -160,6 +160,68 @@ $\to$
 
 					- archaická stvoření
 					- žijí v mořských hloubkách
+					
 
+​				
 
+# Ryby
 
+- vodní obratlovci
+- **dokonalejší než paryby**
+  - chrupavka se měni v kostní tkáň $\to$ osifikace
+  - komplilovanější stavba lebky
+  - rozvoj mozku
+  - rozvoj dýchacího systému
+  - adaptace na rozmanité biomy
+- nejbohatší taxon obratlovců
+- ploutve (párové/nepárové)
+  - prsní
+  - břišní
+  - hřbetní
+  - řitní
+  - ocasní
+- v ploutvích vznikají paprsky
+- šupiny dermálního typu
+- skřele chrání žábry
+- umožnňují rybám dýchat, idkyž se nehýbají
+- plynový měchýř
+- u primitivních ryb je zachovaná struna
+
+## Paprsko ploutví
+
+![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-03-22%20at%2015.38.40.png?raw=true)
+
+### Nasadcoploutví
+
+- sladkovodní, tropická afrika, několik málo druhů
+- rod bichir: dravci, hadovité tělo, místo hřbetní ploutve řada ploutviček
+- veslovité ploutve
+- larvy s vnějšími žábrami
+- **Bichir senegalský**
+
+### Chrupavčití
+
+- heterocerkní ploutev
+- sekundárně chrupačitá kosta
+- **Jeseteři**
+- mají hřebínek
+- živ se bezobratlými
+
+### Kostnatí
+
+### Mnohokostnatí
+
+- primitivní
+- potlačená chorda
+- kostlíni
+- kaprouni
+
+### Bezostní
+
+## Nozdratí (Svaloploutví)
+
+- žijí většinou při dně
+
+### Dvojdyšní
+
+### Lalokoploutví

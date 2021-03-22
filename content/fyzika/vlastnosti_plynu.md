@@ -58,4 +58,71 @@ Vychází ze vztahů pro střední kinetickou energii molekuly ideální plynu
 - $pV=NkT$ $\to$ $N=nN_a$
 - $pV=nN_akT$ $\to$ $N_ak=R$ (Rienmanova konstanta)
 - <u>$pV=nRT$</u>
+- *Wander wallsova rovnice pro reálné plyny*
+
+### Stavové změny
+
+**Izotermický**
+
+- změna stavu při konstantní teplotě
+
+- *Boyleův-Mariottův zákon*
+
+- předpokládáme, že se látkové množství nemění
+
+- $pV=nRT$ $\to$ $pV=konst.$
+
+- Tlak je energie na objem $\to$ vychází to v Joulech
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Izoterma.jpg" style="zoom:150%;" />
+
+- $p=1/V$ - nepřímá úměrnost
+
+**Izobarický**
+
+- změna stavu při konstantním tlaku
+
+- *Gay-Lussacův zákon*
+  $$
+  \begin{align*}
+  pV&=nRT\\
+  \frac{V}{T}&=\frac{nR}{p}\\
+  \frac{V}{T}&= konst.
+  \end{align*}
+  $$
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Izobara.jpg" style="zoom:150%;" />
+
+  
+
+**Izochorický**
+
+- změna stavu konstantním objemu
+
+- *Charlesův zákon*
+  $$
+  \begin{align*}
+  pV&=nRT\\
+  \frac{p}{T}&=\frac{nR}{V}\\
+  \frac{p}{T}&=konst.
+  \end{align*}
+  $$
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Izochora.jpg" style="zoom:150%;" />
+
+  **Adiabatický děj**
+
+- při tomto ději neprobíhá tepelná výměna mezi plynem a okolím
+
+- *Posionův zákon*
+
+- $pV^k=konst.$
+
+- *k* = poisonova konstanta = c/c = měrná tepelná kapicata plynu - 1. konstantní tlak 2. konstatní objem >1
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Adiabatic.svg/1024px-Adiabatic.svg.png)
+
+> úkol - zakreslit grafy pro děje
+>
+> diagram V a T
+>
+> a diagramu P a T
 
