@@ -77,5 +77,39 @@ $Mg>Zn>Fe>Cu$
 
 - v přírodě se vyskytují i ryzí
 
-- $Cu + 2HNO_33 \to CuNO_3 + NO_2 + H_2O$
+- $Cu + HNO_3 \to Cu(NO_3)_2 + NO_2 + H_2O$
+
+- kyselina dusičná $\to$ centrální atom $N^V$ může jít do 4., 2., 1., 0, -3. oxidačního stupně $\to$ silné oxidační účinky
+
+- měď není zase "tolik" ušlechtilá
+
+- $Cu + 2H_2SO_4 \to CuSO_4 + SO_2 + 2H_2O$
+
+- nereagují s $HCl$
+
+$Fe + CuSO_4 \to FeSO_4+Cu$
+
+$FeSO_4+Cu \to $ Nereaguje
+
+
+
+kov stojící na levo od daného kovu v řadě reaktivity je schopen vytěsnit (zredukovat) kov stojící vpravo sám se oxiduje
+
+
+
+### Příklady
+
+$Zn + H_2SO_4 \to ZnSO_4 + H_2$
+
+$Ag + H_2SO_4 \to$ neprobíhá
+
+$Ag + ZnSO_4 \to$ neprobíhá
+
+$Zn + AgNO_3 \to Zn(NO_3)_2+Ag$
+
+$Hg + HCl \to$ neprobíhá
+
+$Zn + H_2O \to$ neprobíhá
+
+
 

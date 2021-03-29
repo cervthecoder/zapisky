@@ -126,3 +126,44 @@ Vychází ze vztahů pro střední kinetickou energii molekuly ideální plynu
 >
 > a diagramu P a T
 
+
+
+### Práce plynů
+
+- první termodynamický princip $\to \Delta U=Q+W$
+- plyn koná práci, když zvětšuje objem
+- $J/m^3 = Pa$
+- práce, kterou vykoná plyn při izotermickém/izobarickém ději $\to \Delta W'=\Delta p\Delta V$
+
+### Kruhový děj
+
+- děj při, kterém se mění stav plynu tak, že se následně vrátí do svého původního stavu
+
+![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-03-29%20at%2014.36.22.png?raw=true)
+
+- práce z 1) do 2) je kladná
+- práce z 2) do 1) je záporná
+- kruhový děj lze charakterizovat pomocí přírustku vnitřní energie $\to \Delta U=0J$ (je nulový)
+
+ohřívač - plyn od něj teplo přebírá ($Q_1$ - teplo dodané)
+
+chladič - přebírá teplo od plynu ($Q_2$ - teplo odevzdané)
+
+$W=Q_1-Q_2$
+
+
+
+$Q=\Delta U + W'$
+
+$Q=W'$
+
+
+
+**účinnost**
+
+$\theta=1-\frac{Q_2}{Q_1}=\frac{W'}{Q_1}$ 
+
+- kdybychom byli schopni, aby teplo přijmuté bylo stejné jako to odevzdané, tak by byla účinnost 100%
+- Druhý termodynamický princip nám toto však nedovoluje $\to$ nešlo by sestrojit perpetum mobile
+- **nelze sestrojit tepelný periodicky pracující stroj, který by přijímal teplo od ohřívače a vykonával stejně velkou práci**
+

@@ -160,7 +160,7 @@ $\to$
 
 					- archaická stvoření
 					- žijí v mořských hloubkách
-					
+
 
 ​				
 
@@ -180,6 +180,7 @@ $\to$
   - hřbetní
   - řitní
   - ocasní
+  - tuková ploutvička
 - v ploutvích vznikají paprsky
 - šupiny dermálního typu
 - skřele chrání žábry
@@ -189,7 +190,11 @@ $\to$
 
 ## Paprsko ploutví
 
+- ploutve jsou vystužené paprsky
+
 ![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-03-22%20at%2015.38.40.png?raw=true)
+
+![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-03-25%20at%2008.40.37.png?raw=true)
 
 ### Nasadcoploutví
 
@@ -205,9 +210,56 @@ $\to$
 - sekundárně chrupačitá kosta
 - **Jeseteři**
 - mají hřebínek
-- živ se bezobratlými
+- živ se bezobratlými (vemtos)
 
 ### Kostnatí
+
+- nejmladší a nejpočetnější skupina ryb
+- chybí rostrum
+- homocerkní ploutec
+- větvené (měkké) a nevětvené (tvrdé) paprsky
+- šupiny cyklidní a ktenoidní
+- plynový měchýř vznikl vychlípením hřbetní strany jícnu
+
+**Štikotvaří**
+
+
+
+**Holobřiší**
+
+- chybějící břišní ploutve
+- úhoř řiční
+- vytírají se v moři (V Sargassovém moři)
+- Monté - larva úhoře
+- Samci při rozmnožování umírají
+- Samice jsou dlouhověké
+
+**Maloostní** řád
+
+*Sekavcovití* - čeleď
+
+*Mřenkovití*
+
+*Kaprovití*
+
+- lín obecný
+- kapr obecný
+  - domestikac získali vysoké tělo
+  - Koi - barevný druh kapra z Japonská
+- Parma obecná
+
+Hořavka druhová
+
+- malá rybička vysokého těla
+- klade jikry do škeblí (Plášťové dutiny)
+
+Cejn
+
+Amur
+
+Tlstolenik
+
+
 
 ### Mnohokostnatí
 
@@ -215,8 +267,6 @@ $\to$
 - potlačená chorda
 - kostlíni
 - kaprouni
-
-### Bezostní
 
 ## Nozdratí (Svaloploutví)
 
