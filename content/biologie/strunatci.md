@@ -271,7 +271,33 @@ Tlstolenik
 ## Nozdratí (Svaloploutví)
 
 - žijí většinou při dně
+- ploutev, která vypadá zezačátku spíše jako noha - je svalnatá
+- masité ploutve
+- dificerkní ploutve (plátev zasahuje do ocasní ploutve)
 
 ### Dvojdyšní
 
+- je početnější než laloko ploutví
+- mají plíce i žábry (dokáží v některých případech čerpat kyslík ze vzduchu)
+- řadí se do tří rodů
+- střídají aquatický a vzdušný způsob života
+
+**Australský bahník**
+
+**Africký bahník**
+
+- žijí na stanovištích, které během letních veder vyschnou
+- vybudují si během tohoto období schránku
+- zavrtají se do komory na dně
+
+**Jihoamerický bahník**
+
 ### Lalokoploutví
+
+- Latimerie podivná
+- dlouho nebylo možné najít žádný živý druh
+- Paní Latimeriová v jižní americe na tžišti našla nějakou rybu, která tomu byla velice podobná
+- dosahuje delky až dvou metrů
+- jsou živorodí
+- předpokládá se, že to jsou předchůdci prvních zvířat, která vylezla na souš
+
