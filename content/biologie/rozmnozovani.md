@@ -85,6 +85,7 @@ date=2021-01-07
   - Je zde i časová beariéra mezi aktivitou pohlavních žláz
   - Tasemnice využívají mechanismus samooplození
 - **Gonochorismus** - jedinec má pouze jeden druh pohlavní žlázy
+- **Pohlavní dimorfismus** - samec má rozdílné znaky než samice
 
 > **Konjugace nálevníků** (nejvyvynutější jednobuněčné organismy - mají např 2 jádra)
 >

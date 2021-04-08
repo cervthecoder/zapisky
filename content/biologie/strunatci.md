@@ -301,3 +301,64 @@ Tlstolenik
 - jsou živorodí
 - předpokládá se, že to jsou předchůdci prvních zvířat, která vylezla na souš
 
+# Obojživelníci - třída
+
+- život se přesouvá z vody na souš (ale ne úplně)
+- nepřímý vývoj - larva
+- vnější žábry
+- poikilotermní
+- bez zárodečných obalů (amnion) - protože se vyvýjejí ve vodě
+- poikilotermní
+- krční páteř - pohyblivá hlava
+- pětiprsté končetiny
+- plicní krevní oběh, kožní dýchání $\to$ nevýhoda, nepromíchávají krev v jedné komoře
+  - aby mohli dýchat, tak musí být kůže navlhčená
+  - žlázy produkují hlen, který chrání pokožku
+  - mají i jedové žlázy (pro ochranu, některé tropické skupiny mají velmi jedovaté toxiny)
+- striktní karnivoři (býložravci)
+- proudový orgán - orgán reagující na proudění vody
+
+## Ocasatí - řád
+
+- nejstarší skupina
+- masožravci
+- dlouhý trup
+- oči bez víček
+- klasicky vnější oplození
+  - spermatofor - balíček spermií
+  - samička ho vcucne do těla
+
+### Velemlokovití
+
+- dorůstají až metrových velikostí
+- žijí v chladných na kyslík bohatých vodách
+- predátoří
+
+### Macaratovití
+
+- Macarát jeskynní
+- žije ve tmě - zakrnuté oči, bez pigmentu
+- celý život ve vodě
+
+### Axolotlovití
+
+- mecický mlok (axolotl mexický)
+- celý životní cyklus ve vodě
+- vnější žábry
+- nikdy neproběhne metamorfóza v suchozemského dospělce (neúplně dospělé larvy - dokáží se ale rozmnožovat)
+- zajímavé barvy
+
+### Mlokovití
+
+- **Mlok skvrnitý**
+- parotidy - seskupení jedových žláz za očima
+- **Čolek horský** - pestře barevný
+- **Čolek velký** - lem na zádech
+
+## Žáby (bezocasí)
+
+- silné zadní končetiny
+
+## Červoři (beznozí)
+
+- tělo je podobné tělu kroužkovců
