@@ -308,7 +308,6 @@ Tlstolenik
 - vnější žábry
 - poikilotermní
 - bez zárodečných obalů (amnion) - protože se vyvýjejí ve vodě
-- poikilotermní
 - krční páteř - pohyblivá hlava
 - pětiprsté končetiny
 - plicní krevní oběh, kožní dýchání $\to$ nevýhoda, nepromíchávají krev v jedné komoře
@@ -358,7 +357,33 @@ Tlstolenik
 ## Žáby (bezocasí)
 
 - silné zadní končetiny
+- zkrácené tělo $\to$ redukovaná ocasní část
+- druhově nejbohatší skupina $\to$ přes 2500 druhů
+- starají se o mláďata
+- ocas se při metamorfóze vstřebává do těla
+- živí se nejčastěji hmyzem
+- samec je menší než samice
+  - v době rozmnožování se chytne samičky za hlavu, když jí leží na zádech $\to$ **Amplexus**
+- Pulec se vývijí ve vodě $\to$ dospělec se přesouvá na souš (není na vodu tolik vázán)
+- rozmnožují se ve vodě
+
+### Rosničky
+
+### Ropuchy
+
+### Blatnice
+
+### Skokani
 
 ## Červoři (beznozí)
 
 - tělo je podobné tělu kroužkovců
+- bez končetin
+- žijí ve vlhké půdě
+- dravci
+- vnější segmentace $\to$ pomáhá při pohybu půdou
+- žláznatá kůže
+- silně zkosnaělá lebka
+- mají jen pravou plíci (levá se nedovyvinula)
+- smyslová tykadla
+- Rodí mláďata již po larváln ím vývoji, nebo samice klade vajíčka

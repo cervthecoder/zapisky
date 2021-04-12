@@ -61,7 +61,7 @@ $Mg>Zn>Fe>Cu$
 
 - nenalezneme je v přírodě ryzí
 - vždy z kyseliny vytěsní vodík (vyredukují)
-- $K, Ba, Ca, Na$ - silně neušlechtilé $\to$ ragují s vodou za vzniku hydroxidu vodíku
+- $K, Ba, Ca, Na$ - silně neušlechtilé $\to$ reagují s vodou za vzniku hydroxidu a vodíku
 
 **Ušlechtilé kovy**
 

@@ -48,3 +48,29 @@ jamb - spíše kosmopolitní, zahraniční verš
 - daktilsky rýmované
 - rým je demokratický prostředek poezie
 
+### Versologie
+
+**Trochej**
+
+Po bouři v svůj známý vcházím les
+
+X    x  x   x  X x   X x       X x       X
+
+
+
+v trocheji je to ta lichá slabika
+
+
+
+**Jamb**
+
+
+
+A jedu v snění - všecko vidím v mlze
+
+x  X  x    X  x       X   x     X    x    X  x
+
+
+
+tady je přízvučný sudý $\to$ na začátek se dá nepřízvučná spojka
+
