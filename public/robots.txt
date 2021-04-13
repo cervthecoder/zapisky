@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://cervthecoder.github.io/zapisky/sitemap.xml
