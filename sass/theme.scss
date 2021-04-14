@@ -32,7 +32,7 @@ body {
 }
 
 body {
-    line-height: 25px;
+    line-height: 30px;
     display: grid;
     grid-template-columns: auto;
     grid-template-areas:
@@ -96,7 +96,7 @@ footer {
 nav {
     list-style-type: none;
     display: inline-block;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .nav {
@@ -104,10 +104,11 @@ nav {
     padding-left: 8px;
     padding-right: 8px;
     height: 10%;
+    width: fit-content;
 }
 
 .nav a:hover {
-  background-color: black; 
+  color: #ccc;
 }
 
 ul {
