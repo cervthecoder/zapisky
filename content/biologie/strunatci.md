@@ -387,3 +387,60 @@ Tlstolenik
 - mají jen pravou plíci (levá se nedovyvinula)
 - smyslová tykadla
 - Rodí mláďata již po larváln ím vývoji, nebo samice klade vajíčka
+
+# Plazi
+
+- embryonální obaly (amnion - vnitřní, alantolis - vmezeřený, chorion - vnější)
+  - alantolis zadžuje všechny odpadní látky vzniklé v embryonálním vývoji
+- pouze vnitřní oplození
+- kůže suchá, be žláz, s rohovinovým krytem
+- poikilotermní
+- kloaka $\to$ orgán sdružující vývod 3 orgánových soustav $\to$ rozmnožovací, vylučovací, trávící
+
+**řády**
+
+## Krokodýli
+
+- mohutní plazi s dlouhým ocasem
+- dlouhé protažené čelisti
+- tělo kryto rohovitými štíty
+- krokodýlí srdce je tvořeno *2 komoromai* a *2 síňemi*
+- mají relativně vyvinutý mozek
+- rozvinutá péče o mláďata
+- mají obrovskou sílu ve stisku
+
+**řády** - krokodýli, aligátoři, kajmani, gaviálové
+
+### Krokodýl nilský
+
+### Aligátor americký
+
+- liší se od krokodýla silnou zkrácenou klínovutou hlavu
+
+### Kajman
+
+- menší stavba těla
+
+### Gaviál indický
+
+- poslední druh
+- dlouhé protažené čelisti $\to$ lov ryb
+
+
+
+## Haterie
+
+- dochované pouze dva drihy
+- krátké nohy
+- výrazně tmavé oči
+- bílé výrustky na hlavě a hřbetě (zubatý roovinový hřeben)
+- hlava připomíná zobákovitý tvar
+- dožívá se i 100 let
+- na temeni má 3. oko
+- zuby jsou srostlé s čelistmi
+
+## Šupinatí
+
+**hadi**, **ještěři**, **dvouplazi**
+
+## Želvy
