@@ -47,7 +47,7 @@ date=2021-04-16
 
 - tvrzení lze dokázat i přes vratný děj ideálního plynu
 
-  ![](/Users/matej/Desktop/Mayer.png)
+  ![](https://github.com/cervthecoder/github_images/blob/master/Mayer.png?raw=true)
 
 - na diagramu vidíte 2 rozdílné izotermy
 - proces $AB$ je izochorický $V=$ konst.
