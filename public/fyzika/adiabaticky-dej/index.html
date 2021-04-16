@@ -103,27 +103,102 @@
         
         
 <h1 class="title">
-  Fyzika
+  Adiabatický děj
 </h1>
-<ul>
-  
-  <li><a href="https://cervthecoder.github.io/zapisky/fyzika/adiabaticky-dej/">Adiabatický děj</a></li>
-  
-  <li><a href="https://cervthecoder.github.io/zapisky/fyzika/termodynamika-1/">Termodynamika 1.</a></li>
-  
-  <li><a href="https://cervthecoder.github.io/zapisky/fyzika/vlastnosti-plynu/">Vlastnosti plynů</a></li>
-  
-  <li><a href="https://cervthecoder.github.io/zapisky/fyzika/molekulova-fyzika-pokrac/">Molekulová fyzika pokračování</a></li>
-  
-  <li><a href="https://cervthecoder.github.io/zapisky/fyzika/casticova-fyzika-1/">Částicová fyzika pokračování</a></li>
-  
-  <li><a href="https://cervthecoder.github.io/zapisky/fyzika/casticova-fyzika/">Částicová fyzika</a></li>
-  
-  <li><a href="https://cervthecoder.github.io/zapisky/fyzika/cerne-teleso/">Záření černého tělesa a využití v praxi</a></li>
-  
-  <li><a href="https://cervthecoder.github.io/zapisky/fyzika/vzdalenosti-ve-vesmiru/">Vzdálenosti ve vesmíru</a></li>
-  
+<p class="subtitle"><strong>2021-04-16</strong></p>
+<p><ul>
+<li>označuje se jako <strong>Poissonův zákon</strong> $\to pV^{\kappa}=konst.$</li>
+<li>kde $\kappa=\frac{c_p}{c_V}$ $\to$ <em>Possionova konstanta</em></li>
 </ul>
+<h3 id="zakladni-axiomatika-adiabatickeho-deje">Základní axiomatika adiabatického dějě</h3>
+<ul>
+<li>Při adiabatickém ději nedochází k výměně tepla s okolím $\to$ $\Delta Q=0$</li>
+<li>z 1. termodynamického zákona poté výjde $\to$ $\Delta U=W$</li>
+<li>při adiabatickém stlačování, $\Delta V&lt;0$, je práce konána na plynu. Vnitřní energie plynu se zvyšuje $\Delta U&gt;0$. (plyn se ohřívá)</li>
+<li>Při rozpínání, $\Delta V&gt;0$, plyn práci koná. Vnitřní energie se snižuje $\Delta U&lt;0$. (plyn se ochlazuje)</li>
+</ul>
+<h3 id="poissonova-konstanta">Poissonova konstanta</h3>
+<ul>
+<li>
+<p>tvrzení $\to$ $\kappa&gt;1$</p>
+</li>
+<li>
+<p>Entalpii soustavy ideálního plynu lze vyjádřit jako $H=U + pV$</p>
+</li>
+<li>
+<p>pro izobarický proces lze zaměnit entalpii za teplo ($Q=H$)</p>
+<p>$\to$ $H=mc_p\Delta T$</p>
+</li>
+<li>
+<p>pro izochorický proces lze zaměnit vnitřní energii za teplo ($Q=U$)</p>
+<p>$\to U=mc_v\Delta T$</p>
+<ol>
+<li>$c_p=\frac{H}{m\Delta T}$</li>
+<li>$c_v=\frac{U}{m\Delta T}$</li>
+</ol>
+<p>$$
+\begin{align*}
+\kappa &amp;=\frac{c_p}{c_v}\
+\kappa&amp; =\frac{\frac{H}{m\Delta T}}{\frac{U}{m\Delta T}}\
+\kappa &amp;= \frac{H}{U}
+\end{align*}
+$$</p>
+</li>
+<li>
+<p>z definice entalpie bude vždy platit $H&gt;U$</p>
+</li>
+<li>
+<p>tedy, že $\kappa&gt;1$</p>
+</li>
+<li>
+<p>tvrzení lze dokázat i přes vratný děj ideálního plynu</p>
+<p><img src="/Users/matej/Desktop/Mayer.png" alt="" /></p>
+</li>
+<li>
+<p>na diagramu vidíte 2 rozdílné izotermy</p>
+</li>
+<li>
+<p>proces $AB$ je izochorický $V=$ konst.</p>
+</li>
+<li>
+<p>proces $AC$ je izobarický</p>
+</li>
+<li>
+<p>Ve stavech $B$ a $C$  má plyn stejnou teplotu (leží na stejné isotermě)</p>
+</li>
+<li>
+<p>protože platí, že $T_1&lt;T_2$, tak určitá část tepla bude absorbována plynem</p>
+</li>
+<li>
+<p>Pro proces $AB$ platí $\to$ $Q_{AB}=nC_V\Delta T$  ($C_V$: molární izochorická měrná tepelná kapacita )</p>
+</li>
+<li>
+<p>Pro proces $AC$ platí $\to$ $Q_{AC}=nC_p\Delta T$ ($C_P$: molární izobarická měrná tepelná kapacita)</p>
+</li>
+<li>
+<p>Pro jednotlivé procesy zapíšem 1. termodynamický princip</p>
+<ol>
+<li>$\Delta U_{AB}=Q_{AB} - W_{AB}$ ($W_{AB}=0 \to$ Není zde změna v objemu)</li>
+<li>$\Delta U_{AC}=Q_{AC}-W_{AC}$</li>
+</ol>
+</li>
+<li>
+<p>Bude tedy platit $Q_{AB}=Q_{AC}-W_{AC}$ $\to$ $nC_V\Delta T=nC_p\Delta T - p\Delta V$</p>
+</li>
+<li>
+<p>ze stavové rovnice objem lze vyjádřit jako $V=\frac{nRT}{p}$</p>
+</li>
+<li>
+<p>po dosazení do naší rovnice $\to$ $C_p-C_V=R$</p>
+</li>
+<li>
+<p>Z čehož vyplývá $C_p&gt;C_V$</p>
+</li>
+<li>
+<p>Tomuto vztahu se říká <strong>Mayerova relace</strong></p>
+</li>
+</ul>
+</p>
 
         <footer>
             
