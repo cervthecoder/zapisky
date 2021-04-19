@@ -167,3 +167,9 @@ $\theta=1-\frac{Q_2}{Q_1}=\frac{W'}{Q_1}$
 - Druhý termodynamický princip nám toto však nedovoluje $\to$ nešlo by sestrojit perpetum mobile
 - **nelze sestrojit tepelný periodicky pracující stroj, který by přijímal teplo od ohřívače a vykonával stejně velkou práci**
 
+### Příklad 1.
+
+Spočtěte teoretickou účinost, který by využíval rozdílu teplot ve vodě.
+
+$\theta=1-\frac{T_1}{T_2}$
+

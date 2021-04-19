@@ -430,7 +430,7 @@ Tlstolenik
 
 ## Haterie
 
-- dochované pouze dva drihy
+- dochované pouze dva druhy
 - krátké nohy
 - výrazně tmavé oči
 - bílé výrustky na hlavě a hřbetě (zubatý roovinový hřeben)
@@ -443,4 +443,46 @@ Tlstolenik
 
 **hadi**, **ještěři**, **dvouplazi**
 
+- největší řád plazů
+- silná kůža krytá rohovitými šupinami $\to$ obměňuje se
+- většina vejcorodá, ale výjimky jsou i vejcoživorodí a živorodí
+
+### Hadi
+
+**Užovka hladká**
+
+**Užovka stromová**
+
+**Zmije obecná**
+
+**Chrestýš západní**
+
+**Kobra indická**
+
+**Mamba černá**
+
 ## Želvy
+
+- velmi stará skupina
+- krunýř $\to$ tvořený dvoumi díly
+  - hřbetní - karapax
+  - bříšní - plastron
+- krunýř srůstá s kostrou (páteř, žebra a části pásu)
+- nemají zuby $\to$ pouze ostré rohovinové zobáky
+- anapsidní lebka - nemá spánkové jámy ani jařmové oblouky
+- vnitřní oplození
+- vodní (většinou býložravé) x suchozemské (většinou dravé)
+- vejce s vápennou skořápkou $\to$ tvrdne až po nakladení
+
+### Skrytohlaví
+
+- zatahují hlavu do krunýře ohybem krku do strany
+
+### Skrytohrdlí
+
+- zatahují pod páteř
+
+**Želva sloní**
+
+**Želva hnědá**
+
