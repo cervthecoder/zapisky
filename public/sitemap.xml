@@ -123,6 +123,14 @@
         <loc>https://cervthecoder.github.io/zapisky/dejepis/</loc>
     </url>
     <url>
+        <loc>https://cervthecoder.github.io/zapisky/dejepis/husitske-valky/</loc>
+        <lastmod>2021-04-23</lastmod>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/zapisky/dejepis/jan-hus/</loc>
+        <lastmod>2021-04-23</lastmod>
+    </url>
+    <url>
         <loc>https://cervthecoder.github.io/zapisky/dejepis/karel-iv/</loc>
         <lastmod>2021-03-26</lastmod>
     </url>
@@ -210,6 +218,10 @@
     <url>
         <loc>https://cervthecoder.github.io/zapisky/informatika/inf-1/</loc>
         <lastmod>2020-12-12</lastmod>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/zapisky/informatika/random/</loc>
+        <lastmod>2021-04-25</lastmod>
     </url>
     <url>
         <loc>https://cervthecoder.github.io/zapisky/informatika/tkinter/</loc>

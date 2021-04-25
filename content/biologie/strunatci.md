@@ -396,6 +396,7 @@ Tlstolenik
 - kůže suchá, be žláz, s rohovinovým krytem
 - poikilotermní
 - kloaka $\to$ orgán sdružující vývod 3 orgánových soustav $\to$ rozmnožovací, vylučovací, trávící
+- vaječné obaly jsou bezvápenaté
 
 **řády**
 
@@ -449,17 +450,42 @@ Tlstolenik
 
 ### Hadi
 
+- tanatóza - ukáže pestřejší břišní zbarvení (ochrana před predátory)
+
 **Užovka hladká**
 
 **Užovka stromová**
 
+**Užovka obojková**
+
+- délka 100-150cm
+
+**Užovka podplamatá**
+
 **Zmije obecná**
+
+- žijící u nás
+- zbarvením připomíná užovku hladkou
+- hemolytický toxín (rozpad červenných krvinek)
 
 **Chrestýš západní**
 
 **Kobra indická**
 
 **Mamba černá**
+
+### ješteři
+
+**Slepýšovití**
+
+- zbytky pletenců končetin u páteře
+- vejcoživorodí
+- dorůstá maximálně do 50cm
+- více analních štítků v řadě narčozdíl od hadů
+
+**Ještěrkovytí**
+
+*Ještěrka obecná* - samice (hnědé); samci (po stranách zelení)
 
 ## Želvy
 
@@ -486,3 +512,12 @@ Tlstolenik
 
 **Želva hnědá**
 
+**Želva bahenní**
+
+- původní druh žijíví v čr (na jižní Moravě a ve Slezsku)
+
+- vodní a mokřadní biotopy se stojatou nebo mírně tekoucí vodou (bahnité či písčité dno)
+
+- délka karapaxu až 25cm
+
+  
