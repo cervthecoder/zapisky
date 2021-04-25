@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <title>Zapisky 2020/21</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" type="image/png" href="https://github.com/cervthecoder/github_images/blob/master/favicon.png?raw=true"/>
+        <!-- Math rendering -->
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+        <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+        </script>
+
+        
+
+        <title></title>
+
+        
+            <link rel="stylesheet" href="https://cervthecoder.github.io/zapisky/theme.css">
+        
+        
+    </head>
+    <body>
+        <div class="content">
+        
+        
+            <header>
+                <div class="header-left">
+                    <a href="https:&#x2F;&#x2F;cervthecoder.github.io&#x2F;zapisky&#x2F;" class="logo"></a>
+                </div>
+                <div class="header-right">
+                    <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+                         <li class="nav"><a href="https://cervthecoder.github.io/zapisky">Home</a></li>
+                        
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/anglictina/">
+                                    <span itemprop="name">Angličtina</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/biologie/">
+                                    <span itemprop="name">Biologie</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/cestina/">
+                                    <span itemprop="name">Čeština</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/chemie/">
+                                    <span itemprop="name">Chemie</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/dejepis/">
+                                    <span itemprop="name">Dějepis</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/fyzika/">
+                                    <span itemprop="name">Fyzika</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/hst/">
+                                    <span itemprop="name">Humanitní studia</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/informatika/">
+                                    <span itemprop="name">Informatika</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/zemepis/">
+                                    <span itemprop="name">Zeměpis</span>
+                                </a>
+                            </li>
+                        
+                    </nav>
+                </div>
+            </header>
+        
+        
+<h1 class="title">
+  Random v pythonu
+</h1>
+<p class="subtitle"><strong>2021-04-25</strong></p>
+<p><pre style="background-color:#1e1e1e;">
+<code><span style="color:#9b9b9b;">import </span><span style="color:#dcdcdc;">random
+</span><span style="color:#9b9b9b;">import </span><span style="color:#dcdcdc;">tkinter
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">cara():
+    print(</span><span style="color:#d69d85;">&#39;+--+--+--+--+--+--+&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">hulky():
+    print(</span><span style="color:#d69d85;">&#39;|  |  |  |  |  |  |&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#608b4e;">&#39;&#39;&#39;
+cara()
+hulky()
+cara()
+hulky()
+cara()
+&#39;&#39;&#39;
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">ctvereckovy_papir(rows): </span><span style="color:#608b4e;"># zobrazí určitý počet řádků
+    </span><span style="color:#dcdcdc;">cara()
+    </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">i </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(rows):
+        hulky()
+        cara()
+
+</span><span style="color:#608b4e;">&#39;&#39;&#39;
+ctvereckovy_papir(4)
+&#39;&#39;&#39;
+
+&#39;&#39;&#39;
+n = random.randint(1, 6)
+print(f&#39;Na kostce padla {n}&#39;)
+&#39;&#39;&#39;
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">hod_kostkou():
+    n = random.randint(</span><span style="color:#b5cea8;">1</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">6</span><span style="color:#dcdcdc;">)
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Na kostce padla </span><span style="color:#dcdcdc;">{n}</span><span style="color:#d69d85;">&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">dice_20():
+    n = random.randint(</span><span style="color:#b5cea8;">1</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">20</span><span style="color:#dcdcdc;">)
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Na kostce padla </span><span style="color:#dcdcdc;">{n}</span><span style="color:#d69d85;">&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">binary_dice():
+    sides = [</span><span style="color:#b5cea8;">0 </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">n </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(</span><span style="color:#b5cea8;">3</span><span style="color:#dcdcdc;">)] + [</span><span style="color:#b5cea8;">1 </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">i </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(</span><span style="color:#b5cea8;">3</span><span style="color:#dcdcdc;">)]
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Na kostce padla </span><span style="color:#dcdcdc;">{random.choice(sides)}</span><span style="color:#d69d85;">&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">even_dice():
+    sides = [n </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">n </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(</span><span style="color:#b5cea8;">12</span><span style="color:#dcdcdc;">) </span><span style="color:#569cd6;">if </span><span style="color:#dcdcdc;">n % </span><span style="color:#b5cea8;">2 </span><span style="color:#dcdcdc;">==</span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">]
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Na kostce padla </span><span style="color:#dcdcdc;">{random.choice(sides)}</span><span style="color:#d69d85;">&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">odd_dice():
+    sides = [n </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">n </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(</span><span style="color:#b5cea8;">12</span><span style="color:#dcdcdc;">) </span><span style="color:#569cd6;">if </span><span style="color:#dcdcdc;">n % </span><span style="color:#b5cea8;">2 </span><span style="color:#dcdcdc;">==</span><span style="color:#b5cea8;">1</span><span style="color:#dcdcdc;">]
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Na kostce padla </span><span style="color:#dcdcdc;">{random.choice(sides)}</span><span style="color:#d69d85;">&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">square_dice():
+    sides = [n^</span><span style="color:#b5cea8;">2 </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">n </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(</span><span style="color:#b5cea8;">6</span><span style="color:#dcdcdc;">)]
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Na kostce padla </span><span style="color:#dcdcdc;">{random.choice(sides)}</span><span style="color:#d69d85;">&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">prepoved():
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Dnes bude </span><span style="color:#dcdcdc;">{random.randint(-</span><span style="color:#b5cea8;">15</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">35</span><span style="color:#dcdcdc;">)}</span><span style="color:#d69d85;"> stupňů&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">pin(digits): </span><span style="color:#608b4e;"># digits znamená kolika místný bude pin
+    </span><span style="color:#dcdcdc;">print(</span><span style="color:#d69d85;">&#39;Tvůj nový PIN je&#39;</span><span style="color:#dcdcdc;">.join([random.randint(</span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">9</span><span style="color:#dcdcdc;">) </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">i </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(digits)]))
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">datum():
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Pokoj si uklidím </span><span style="color:#dcdcdc;">{random.randint(</span><span style="color:#b5cea8;">1</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">30</span><span style="color:#dcdcdc;">)}</span><span style="color:#d69d85;"> . </span><span style="color:#dcdcdc;">{random.randint(</span><span style="color:#b5cea8;">1</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">12</span><span style="color:#dcdcdc;">)}</span><span style="color:#d69d85;"> . 2021&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">nahodny_ctverec(how_many): </span><span style="color:#608b4e;"># how_many znamená kolik chceš nakreslit čtverců
+    </span><span style="color:#dcdcdc;">canvas = tkinter.Canvas()
+    canvas.pack()
+    </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">i </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(how_many):
+        x = random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">)
+        y = random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">)
+        canvas.create_rectangle(x, y, x+random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">), y+random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">))
+    
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">sportovni_vlajka():
+    x = random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">)
+    y = random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">)
+    canvas = tkinter.Canvas()
+    canvas.pack()
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, x, y, fill=</span><span style="color:#d69d85;">&#39;green&#39;</span><span style="color:#dcdcdc;">)
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">, x, y, fill=</span><span style="color:#d69d85;">&#39;orange&#39;</span><span style="color:#dcdcdc;">)
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">, x, y, fill=</span><span style="color:#d69d85;">&#39;blue&#39;</span><span style="color:#dcdcdc;">)
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, x, y, fill=</span><span style="color:#d69d85;">&#39;yellow&#39;</span><span style="color:#dcdcdc;">)
+
+</span></code></pre></p>
+
+        <footer>
+            
+            <div class="border"></div>
+            <div class="footer">
+                <small class="footer-left">
+                    Copyright &copy; Matěj Červenka
+                    
+                        <li class="nav">
+                            <a itemprop="url" href="https://github.com/cervthecoder">
+                                <img class="icon" src="https:&#x2F;&#x2F;cervthecoder.github.io&#x2F;zapisky&#x2F;/icons/github.svg" alt="Github">
+                            </a>
+                        </li>
+                        
+                        
+                        <li class="nav">
+                            <a itemprop="url" href="https://twitter.com/Matjervenka2">
+                                <img class="icon" src="https:&#x2F;&#x2F;cervthecoder.github.io&#x2F;zapisky&#x2F;/icons/twitter.svg" alt="Github">
+                            </a>
+                        </li>
+                        
+                </small>
+                <small class="footer-right">
+                    Powered by <a href="https://www.getzola.org">Zola</a> | Theme <a href="https://github.com/barlog-m/oceanic-zen">Oceanic Zen</a>
+                </small>
+            </div>
+        
+        </footer>
+    
+        </div>
+    </body>
+</html>
