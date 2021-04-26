@@ -520,4 +520,30 @@ Tlstolenik
 
 - délka karapaxu až 25cm
 
-  
+
+
+
+# Ptáci
+
+- let $\to$ velmi energeticky náročný
+- často pestře zbarvení
+- hlasité projevy
+- vývoj z plazů
+- peří - mrtvý útvar pokožky, který je pevný a lehký
+- přední končetina $\to$ křídlo
+- anatomické změny lopatkového pásma Furcula
+- prodloužený běhák zadní končetiny (srůst zanártních a nártních kostí)
+- homoiotermní
+- úplné rozdělení srdce
+- rozvoj pravé aorty a zánik levé
+- pneumatické kosti (duté)
+- stavba plic, vzdušné vaky (využívají kyslík při nádechu i výdechu)
+- vznik zobákovitých čelistí s rohovinou
+- suchá kůže bez žláz (kostrční je jediná -> impregnace peří pomocí jejího sekretu)
+- mohutná hrudní kost
+- pygostyl - něco jako ocas
+
+![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-04-26%20at%2015.47.37.png?raw=true)
+
+
+
