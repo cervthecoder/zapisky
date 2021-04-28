@@ -67,5 +67,75 @@ $CH_3COOH \to CH_3COO^-$
 
 ### Síla kyselin a zásad
 
-- síla kyseliny = schopnost (lehkost) odštěpovat proton
-- síla zásady = schopnost přijímat proton
+- **síla kyseliny** = schopnost (lehkost) odštěpovat proton (čím lépe, tím silnější)
+
+  - sílu kyselin určujeme vzhledem k vodě $\to$ disociace kyseliny ve vodě
+
+  - $HA$ - obecně kyselina (A - acidum)
+
+  - $HA + H_2O \leftrightarrow H_3O^+ + A^-$
+
+  - Čím je kyselina silnější tím více je posunutá rovnováha na pravou stanu reakce (na stranu produktů)
+
+  - Čím je kyselina slabší, tím je posunutá rovnováha na levou stanu reakce (na stranu reaktantů)
+
+  - **Disociační konstanta kyseliny** [$K_A$] (její hodnota je závislá na teplotě)
+
+  - charakterizuje kvantitativně rovnováhu disociace kyseliny ve vodě a současně **charakterizuje sílu kyseliny**
+
+  - $K_A = \frac{[H_3O^+] \cdot [A^-]}{[HA]}$  $\to$ zanedbáváme koncetraci vody
+
+    $K_A>>1$ $\to$ Silná kyselina
+
+    ![](https://github.com/cervthecoder/github_images/blob/master/acidobazic_1.png?raw=true)
+
+    $K_A<<1 \to$ Slabá kyselina
+
+    ![](https://github.com/cervthecoder/github_images/blob/master/acidobazic_2.png?raw=true)
+
+  - Podle $K_A$ dělíme kyseliny na
+
+    - Silné kyseliny $\to$  $H_2SO_4, HNO_3, HCO_4$ 
+    - slabá až středně silná $\to$ $ H_3PO_4$($<10^{-4}, 10{-2}>$)
+    - slabé $\to$ $H_2S, HClO, H_2CO_3$ ($K_A<10^{-4}$)
+    - bez kyslíkaté kyseliny
+      - halogenovodíkové jsou silné až na $HF$
+      - všechny ostatní jsou slabé
+    - kyslíkaté kyseliny
+      - čím je větší počet kyslíků vůči vodíkům tím je kyselina silnější
+      - $H_nXO_n$ $\to$ $HClO$ - slabé kyseliny
+      - $H_nXO_{n+1}$ $\to$ $H_3PO_4$ - slabé až středně silné
+      - $HnXO_{n+2}$ $\to$ $H_2SO_4$ - silné
+      - $HnXO_{n+3}$ $\to$ $HCLO_4$ - silné
+
+  ![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-04-28%20at%2008.58.18.png?raw=true)
+
+- **síla zásady** = schopnost přijímat proton
+
+  - síla zásad určujeme vzhledem  k vodě $\to$ vycházíme tedy z disciace zásady ve vodě
+
+  - zásada (lat. basum) musí mít volný elektronový pár, aby mohla navázat $H^+$
+
+  - $|B + H_2O \leftrightarrow HB^+ + OH^-$
+
+  - $K_B \to$ **Disociační konstanta zásady**
+
+  - kvantitativně charakterizuje sílu zásady
+
+  - $K_B=\frac{[HB^+]\cdot [OH^-]}{[B]}$
+
+    $K_B>>1$
+
+    ![](https://github.com/cervthecoder/github_images/blob/master/acidobazic_3.png?raw=true)
+
+    $K_B<<1$
+
+    ![](https://github.com/cervthecoder/github_images/blob/master/acidobazic_4.png?raw=true)
+
+    - Sílná zásada $\to$ Hydroxidy alkalických kovů a kovů alkalických zemin (I.A a II.A)  ($K_B>10^-2$)
+
+      > Všechny ostatní zásady jsou slabé až středně silné
+
+    - Středně silná $\to$ ($<10^{-4}, 10^{-2}>$)
+
+    - Slabá $\to$ ($K_B<10^{-4}$)
