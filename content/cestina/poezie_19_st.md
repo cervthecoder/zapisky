@@ -16,6 +16,15 @@ date=2021-04-15
 - malé básně v próze
   - Sic byly v próze, tak byly lyrické
 
+## Paul Verlaine
+
+- Podzimní píseň
+
+## Arthur Rimbaud
+
+- spáč v úvalu
+- psal sonety
+
 ## Otokar Březina
 
 - první český prokletý básník
@@ -25,4 +34,16 @@ date=2021-04-15
   - nezraflé ovoce naše reflexem západu zraje
   - den září zatmívá dálky
   - noc temnem zapaluje výše
-  - 
+
+# Lumírovci
+
+- tzv. škola kosmopolitní
+- kolem časopisu Lumír (od r. 1877 )
+- usilovali o světovou úroveň české literatury
+
+## J. Zeyer
+
+- prozaik, dramatik a epický básník, představitel novoromantismu
+- narodil se v Praze
+- vyučil se tesařem (později studoval filosofickou fakultu)
+
