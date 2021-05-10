@@ -557,7 +557,7 @@ Tlstolenik
 
 - mohutná hrudní kost
 
-- pygostyl - něco jako ocas (redukovaný ocas)
+- pygostyl - něco jako ocas (redukovaný ocas) - pozůstatek ocasník obratlů u ptáků
 
 - synsacrym - kost berdo-křížová
 
@@ -588,7 +588,62 @@ Tlstolenik
 - epigamní chování
 - páření - přikládání koak
 - skořápka stvrdne při průchodu vejcovody
-- 
+- nidikolní - mláďata se rodí holá
+- nidifugní - rodí se s prachovým peří
+
+## Běžci
+
+- většinou nelétaví
+- jinak postavené pánevní dno
+- řád pštrosů - největší pták (*Pštros dvouoprstý*)
+
+### Pštrosi
+
+- jediný druh - **pštros dvouprstý**
+- samci až 150kg, 2.5m
+- ploché sternum (hrudní kost) bez hřebene
+- pneumatizované kosti, dobře vyvinuté křídla
+- bez pygostylu
+- samci dlouhý vychlípitelný penis
+- nidifugní
+- výborný zrak
+
+### Nanduové
+
+- velmi podobní pštrosům, ale mají 3 prsty
+- **nandu darwinův a nandu pamový**
+
+### Tinamy
+
+- podobní kurům
+
+### Kasuáři
+
+- Emuovití a Kasuarovití
+
+### Kivové
+
+## Letci (nadřád)
+
+- schopnost létat
+
+### Tučňáci
+
+- druhotně nelétaví - přizpůsobení na vodní prostředí
+- křídla se přeměnila na veslovité orgány
+- pouze na jižní polokouli
+
+### Trubkonosí
+
+- Albatros
+
+### Potápky
+
+### Veslonozí
+
+### Brodiví
+
+### Vrubozobí
 
 
 
