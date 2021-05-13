@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <title>Zapisky 2020/21</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" type="image/png" href="https://github.com/cervthecoder/github_images/blob/master/favicon.png?raw=true"/>
+        <!-- Math rendering -->
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+        <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+        </script>
+
+        
+
+        <title></title>
+
+        
+            <link rel="stylesheet" href="https://cervthecoder.github.io/zapisky/theme.css">
+        
+        
+    </head>
+    <body>
+        <div class="content">
+        
+        
+            <header>
+                <div class="header-left">
+                    <a href="https:&#x2F;&#x2F;cervthecoder.github.io&#x2F;zapisky&#x2F;" class="logo"></a>
+                </div>
+                <div class="header-right">
+                    <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+                         <li class="nav"><a href="https://cervthecoder.github.io/zapisky">Home</a></li>
+                        
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/biologie/">
+                                    <span itemprop="name">Biologie</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/cestina/">
+                                    <span itemprop="name">Čeština</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/chemie/">
+                                    <span itemprop="name">Chemie</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/dejepis/">
+                                    <span itemprop="name">Dějepis</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/francouzstina/">
+                                    <span itemprop="name">Francouzština</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/fyzika/">
+                                    <span itemprop="name">Fyzika</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/hst/">
+                                    <span itemprop="name">Humanitní studia</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/informatika/">
+                                    <span itemprop="name">Informatika</span>
+                                </a>
+                            </li>
+                        
+                            
+                            <li class="nav">
+                                <a itemprop="url" href="https://cervthecoder.github.io/zapisky/zemepis/">
+                                    <span itemprop="name">Zeměpis</span>
+                                </a>
+                            </li>
+                        
+                    </nav>
+                </div>
+            </header>
+        
+        
+<h1 class="title">
+  Náhoda v pythonu 2.
+</h1>
+<p class="subtitle"><strong>2021-05-12</strong></p>
+<p><pre style="background-color:#1e1e1e;">
+<code><span style="color:#9b9b9b;">import </span><span style="color:#dcdcdc;">random
+</span><span style="color:#9b9b9b;">import </span><span style="color:#dcdcdc;">tkinter
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">nakup():
+    ceny = [random.randint(</span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">,</span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">) </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">i </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">range(</span><span style="color:#b5cea8;">3</span><span style="color:#dcdcdc;">)]
+    </span><span style="color:#569cd6;">for </span><span style="color:#dcdcdc;">cena </span><span style="color:#569cd6;">in </span><span style="color:#dcdcdc;">ceny:
+        print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Tvůj </span><span style="color:#dcdcdc;">{ceny.index(cena)}</span><span style="color:#d69d85;">. nákup stál </span><span style="color:#dcdcdc;">{cena}</span><span style="color:#d69d85;"> korun&#39;</span><span style="color:#dcdcdc;">)
+    print(</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&#39;Celkem jsi zaplatil </span><span style="color:#dcdcdc;">{sum(ceny)}</span><span style="color:#d69d85;"> korun&#39;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">baliky():
+    canvas = tkinter.Canvas()
+    canvas.pack()
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">,</span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">), fill=</span><span style="color:#d69d85;">&quot;green&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">, random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">,</span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">), fill=</span><span style="color:#d69d85;">&quot;red&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">, random.randint(</span><span style="color:#b5cea8;">10</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">), fill=</span><span style="color:#d69d85;">&quot;blue&quot;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">okraje():
+    canvas = tkinter.Canvas()
+    canvas.pack()
+    canvas.create_text(</span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;Levý okraj&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;Horní okraj&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;Dolní okraj&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, text==</span><span style="color:#d69d85;">&quot;Pravý okraj&quot;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">vrcholy_obdelniku():
+    canvas = tkinter
+    canvas.pack()
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;D&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;A&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;C&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;B&quot;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">vrcholy_obdelniku_():
+    canvas = tkinter
+    canvas.pack()
+    canvas.create_rectangle(</span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">200</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">300</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">90</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">90</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;D&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">90</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">310</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;A&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">210</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">90</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;C&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">210</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">310</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;B&quot;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">pisnicka():
+    canvas = tkinter
+    canvas.pack()
+    canvas.create_text(</span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;Load up on guns, bring your friends&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">90</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;It&#39;s fun to lose and to pretend&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">80</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;She&#39;s over-bored and self-assured&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(</span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">70</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&quot;Oh no, I know a dirty word&quot;</span><span style="color:#dcdcdc;">)
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">stitek(x, y):
+    canvas = tkinter
+    canvas.pack()
+    canvas.create_text(x, y, text=</span><span style="color:#d69d85;">&quot;Matěj&quot;</span><span style="color:#dcdcdc;">)
+    canvas.create_rectangle()
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">den():
+    canvas.create_text(random.randint(</span><span style="color:#b5cea8;">180</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">260</span><span style="color:#dcdcdc;">), </span><span style="color:#b5cea8;">40</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&#39;den&#39;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(random.randint(</span><span style="color:#b5cea8;">80</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">110</span><span style="color:#dcdcdc;">), </span><span style="color:#b5cea8;">50</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&#39;je&#39;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(random.randint(</span><span style="color:#b5cea8;">120</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">170</span><span style="color:#dcdcdc;">), </span><span style="color:#b5cea8;">70</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&#39;pěkný&#39;</span><span style="color:#dcdcdc;">)
+    canvas.create_text(random.randint(</span><span style="color:#b5cea8;">30</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">70</span><span style="color:#dcdcdc;">), </span><span style="color:#b5cea8;">60</span><span style="color:#dcdcdc;">, text=</span><span style="color:#d69d85;">&#39;dnes&#39;</span><span style="color:#dcdcdc;">)
+</span><span style="color:#608b4e;"># Dnes je pěkný den
+
+</span><span style="color:#569cd6;">def </span><span style="color:#dcdcdc;">nah_cislo_grafika():
+    canvas.create_text(random.randint(</span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">), random.randint(</span><span style="color:#b5cea8;">0</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">100</span><span style="color:#dcdcdc;">), text=</span><span style="color:#569cd6;">f</span><span style="color:#d69d85;">&quot;</span><span style="color:#dcdcdc;">{random.randint(</span><span style="color:#b5cea8;">100000</span><span style="color:#dcdcdc;">, </span><span style="color:#b5cea8;">9999999</span><span style="color:#dcdcdc;">)}</span><span style="color:#d69d85;">&quot;</span><span style="color:#dcdcdc;">)
+</span></code></pre></p>
+
+        <footer>
+            
+            <div class="border"></div>
+            <div class="footer">
+                <small class="footer-left">
+                    Copyright &copy; Matěj Červenka
+                    
+                        <li class="nav">
+                            <a itemprop="url" href="https://github.com/cervthecoder">
+                                <img class="icon" src="https:&#x2F;&#x2F;cervthecoder.github.io&#x2F;zapisky&#x2F;/icons/github.svg" alt="Github">
+                            </a>
+                        </li>
+                        
+                        
+                        <li class="nav">
+                            <a itemprop="url" href="https://twitter.com/Matjervenka2">
+                                <img class="icon" src="https:&#x2F;&#x2F;cervthecoder.github.io&#x2F;zapisky&#x2F;/icons/twitter.svg" alt="Github">
+                            </a>
+                        </li>
+                        
+                </small>
+                <small class="footer-right">
+                    Powered by <a href="https://www.getzola.org">Zola</a> | Theme <a href="https://github.com/barlog-m/oceanic-zen">Oceanic Zen</a>
+                </small>
+            </div>
+        
+        </footer>
+    
+        </div>
+    </body>
+</html>
