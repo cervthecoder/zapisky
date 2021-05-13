@@ -641,9 +641,45 @@ Tlstolenik
 
 ### Veslonozí
 
+- rybožraví vodní ptáci
+- osidlují slané, ale i sladkovodní plochy
+- často žijí ve velkých koloniích
+- plovac blána spojuje všechny 4 (3) prsty
+- **zástupci**
+  - terejové
+  - faetoni
+  - fregatky
+  - pelikání
+  - kormoráni
+- Na našem území se nejvíce vyskytuje *kormorán velký*
+  - kolonie na Moravě a Třeboňsku
+  - nemá kostrční žlázu $\to$ po namočení se zvyšuje jeho účinná hmosnost
+
 ### Brodiví
 
-### Vrubozobí
+- dlouhé kráčivé nohy
+- dlouhý krk
+- masivní dlouhý zobák
+- živí se obratlovci a korýši v mělkých sladkovodních vodách
+- nejvýznamnější **zástupci**
+  - *čápi*
+    - *čáp bílý*
+    - *čáp černý*
+    - marabu
+    - kondor
+  - *volavky*
+    - volavka popelavá
+    - kvakoši
+    - bukači
+  - *ibisové*
+    - kolpík bílý
+
+### Plameňáci
+
+- na zobáku příčné lamely
+- vycezují s jejich pomocí v mělčinách korýše
+- hnízdí v obrovských koloniích
+- kladou pouze jedno vejce
 
 
 
