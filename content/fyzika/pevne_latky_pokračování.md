@@ -34,8 +34,8 @@ $\epsilon = \frac{\Delta l}{l}$
 
 - mezi napětím a relativním prodloužením je přímá úměrnost
 - $\sigma_m $ je přímo úměrné s $\epsilon$
-- $\sigma_m=F_p/S$
-- $\sigma_m = E \cdot \epsilon$  [E je modul pružnosti v tahu (Pa)]
+- $\sigma_p=F_p/S$
+- $\sigma_n = E \cdot \epsilon$  [E je modul pružnosti v tahu (Pa)]
 - **Hookův zákon**
 - pro ocel je E = 220 GPa
 

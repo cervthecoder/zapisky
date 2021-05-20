@@ -71,5 +71,22 @@ date=2021-05-07
 
 - na romantické prvky bylo nahlíženo přes tmavé brýle dekadentního zmaru
 
-  
+
+### Karel Šiktanc
+
+- novinář, scénárista, básník, textář
+- básník 20. st.
+- narozen v Hřebči u Kladna
+- po revoluci dostal cenu Jaroslava Seifarta
+
+ **Tanec smrti**
+
+- psané ve stylu divadelní hry
+- veršované dialogy
+- motiv náboženství a smrti
+- lidský svět je zkažený a temný (motiv normalizace)
+- motiv Palachovi smrti
+- memento mori
+
+
 
