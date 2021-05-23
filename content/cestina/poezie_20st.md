@@ -30,3 +30,23 @@ date=2021-05-20
 - českou kulturu na začátku 20. st. hodně inspirovala Francie
 - Karel Čapek přeložil básně Guillaume Apollinaire: Pásmo 1912
   - volné asociace
+- **pásmo** - se poté stalo vlastním žánrem
+
+### Vítězlav Nezval
+
+### Jiří Wolker
+
+- proletářská poezie
+- od roku 1921 členem KSČ
+- psal epitafy
+- Zemřel v 24letech na tuberkulózu
+- uměl 5 jazyků
+- Z Prostějova
+- Byl věřící
+- Psal pásma
+
+- Do svých básních hodně promítal sama sebe
+- Svatý kopeček (jako malý tam trávil prázdniny)
+  - Píše o tom, co se tam za tu dobu změnilo
+- Píše o těžkostech života
+- Píše volněji než Nezval
