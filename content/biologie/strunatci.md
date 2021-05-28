@@ -681,6 +681,68 @@ Tlstolenik
 - hnízdí v obrovských koloniích
 - kladou pouze jedno vejce
 
+# Savci
+
+- Sajou mléko $\to$ mléčné žlázy
+- mají placentu (placentálové), až na vačnatce 
+- děloha
+- srst $\to$ Jednotlivé chloupky vyrůstají z folikulů (metamorfózou : bodliny)
+- Homoiotermní  $\to37^{\circ}C$
+- tři sluchové kůstky $\to$ **kovadlinka, třmínek, kladívko**
+- krom špičáků a řezáku mají i stoličky $\to$ **heterodontní chrup**
+- rodí živá mláďata (výjimka - vejcorodí)
+- velký rozvoj moncového mozku a mozečku
+- tělní dutina rozdělená bránicí
+- pohlavní dimorfimus
+- spodní čelist nepárová
+
+### Placenta
+
+- chorion začne do sliznice prorůstat klky (chorionové klky)
+- sliznice dělohy + chorionové klky $\to$ **placenta**
+- přiléhají tam na sebe vlásečnice
+
+### Placentálové
+
+- nepárová pochva
+- různý vývod močové a rozmnožovací soustavy
+- děloha dvojitá, děloha dvourohá, děloha jednoduchá
+
+![](http://www.biomach.cz/_/rsrc/1348670473729/biologie-zivocichua/savci-mammalia/45_urogenit%C3%A1ln%C3%AD%20soustava%20samic%202.png)
+
+## Vačnatci
+
+- nemají placentu
+- rodí malý zárodek (vývoj v těle matky je krátký 10-20 dnů) $\to$ ten přeleze do vaku matky, kde se přisaje na mléčnou žlázu
+- v tomto vaku probíhá zbytek vývoje mláďata
+- dvojitá děloha $\to$ dvojitý penis
+- kloaka
+- udrželi se v Austrálii $\to$ klokani, koaly
+- v Jižní americe/střední americe $\to$ vačice
+
+## Ptakořitní
+
+- mají kloaku $\to$ spojení rozmnožovacího, vylučovacího a trávícího vývodu
+
+  ![](http://www.biomach.cz/_/rsrc/1348670450363/biologie-zivocichua/savci-mammalia/44_urogenit%C3%A1ln%C3%AD%20soustava%20samic%201.png)
+
+- jediní vejcorodí savci
+
+- krkavčí kost
+
+- **Ptakopysk, ježura a paježura**
+
+
+
+**placentálové**
+
+## Kytovci
+
+- vyinuli se z kopytníků
+- druhotně se přizpůsobili na vodní prostředí
+
+
+
 
 
 

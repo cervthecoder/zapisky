@@ -24,11 +24,9 @@ date=2021-05-10
 
 # Síla pružnosti, normálové napětí
 
-$\epsilon = \frac{\Delta l}{l}$
+$\epsilon = \frac{\Delta l}{l}$ $\to$ **relativní prodloužení
 
 - deformace tahem $\to$ síly působící z vnější x síly působící mezi částicemi
-
-
 
 ## Pružná deformace
 
@@ -40,4 +38,9 @@ $\epsilon = \frac{\Delta l}{l}$
 - pro ocel je E = 220 GPa
 
 ![](https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-05-10%20at%2014.50.51.png?raw=true)
+
+## Teplotní roztažnost
+
+- $\Delta l=\alpha \cdot l_1 \cdot \Delta T$
+- $\alpha \to$ Teplotní součinitel délkové roztažnosti
 
