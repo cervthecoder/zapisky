@@ -38,5 +38,40 @@ date=2021-06-26
 
 - pro vodu $\sigma_v = 0.073 N\cdot m^{-1}$
 
+# Kapilární jevy
+
+- Kapilára $\to$ Velmi tenká trubička (r<1mm)
+- Na molekuly působí
+
+  1. tíhová síla
+  2. Povrchové napětí
+
+- Kapilární síla $\to$ působí do středu křivosti, kterou vytvoří vodní hladina
+- Také hovoříme o kapilárním tlaku $\to$ **přídavný tlak**, který vzniká vlivem pružných vlastností povrchové vrstvy kapaliny
+
+$p_k = \frac{2\sigma}{r}$ (pro povrch kapaliny, hladinu)
+
+$p_k = \frac{4\sigma}{r}$ (pro kapku)
+
+- Kapalina přestane stoupat/klesat, dokud se **kapilární tlak a hydrostatický tlak nebude rovnat**
+
+  $\to$ $p_k=p_h \to \frac{2\sigma}{r}=h\rho g \to h=\frac{2\sigma}{\rho g r}$
+
   
+
+### Elevace (např voda)
+
+- vzlínavost
+- Smáčení stěn nádoby
+
+<img src="https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-05-31%20at%2014.26.49.png?raw=true" style="zoom:50%;" />
+
+### Deprese (např rtuť)
+
+<img src="https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-05-31%20at%2014.26.58.png?raw=true" style="zoom:50%;" />
+
+---
+
+1. Jak velké síly povrchové vrstvy drží pohromadě kapku vody
+2. Jak Velká kapka se udrží na kohoutku než se odtrhne?
 

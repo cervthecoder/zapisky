@@ -1,6 +1,6 @@
 +++
 
-title="Avantgarda"
+title="Poezie 20. st."
 
 date=2021-05-20
 
@@ -17,13 +17,18 @@ date=2021-05-20
 - Vitalismus - směr reagující na válku $\to$ je potřeba hledat smysl v přírodě
 - Poetismus - hravý směr, poezie jako hra
 - Surrealismus - je třeba zkoumat hlouběji skryté stránky člověka
+- impresionismus - objekty neuzavíráme do kontur $\to$ nenapodobuje reálný svět
+- abstraktní malířství -  Vasilij Kandinsky
 - Dadaismus
 - Manifest české moderny 
+- Biedermaier - měšťanský styl
 
 # Kubismus
 
 - nechceme tvořit realisticky
 - používají plochy a jednoduché tvary
+- 1. významný avantgardní směr
+- 
 
 # 2. Inspirace
 
@@ -44,9 +49,9 @@ date=2021-05-20
 - Z Prostějova
 - Byl věřící
 - Psal pásma
-
 - Do svých básních hodně promítal sama sebe
 - Svatý kopeček (jako malý tam trávil prázdniny)
   - Píše o tom, co se tam za tu dobu změnilo
 - Píše o těžkostech života
 - Píše volněji než Nezval
+
