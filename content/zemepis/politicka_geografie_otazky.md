@@ -108,5 +108,26 @@ Austrálie, Nový Zéland, Kanada, Bahamy, Belize...
   - Často lidé, kterí se označují jako Feloni tento slogan pužívají (lidé, kteří porušili zákon a přišli o vlební právo)
   - V americe se to také používá ve Washingotnu D, protože tento stát nemá v kongresu žádné zastouopení, ale jeho občané musí platit daně
 
+# 11. Jaké odnože má socialismus? Co jsou jeho typické znaky?
 
+- systém založený na spolčném vlastnictví
+- Cílem je dosažení ideálů rovnosti, spravedlnosti a mezilidské solidarity
+
+1. Raný socialismus
+2. Ricardianský socialismus
+3. Marxismus
+   1. Leninismus
+   2. Stalinismus
+   3. Marxismus-Leninismus
+   4. Trockismus
+   5. Maoismus
+4. Neomarxismus
+5. Postmarxismus
+6. Sociální demokracie
+7. Křesťanský socialismus
+8. Národní socialismus
+9. Sociální anarchismus
+10. Tržní socialismus
+
+# 12. Co jsou to integrace? Jaké dva druhy logicky existují? Proč u obou je prvním slovo politicko?
 

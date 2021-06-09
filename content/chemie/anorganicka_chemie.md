@@ -95,13 +95,75 @@ date=2021-05-26
 
   - využívá se například při výrobě kovů z rud ($CuO + H_2 \to^T Cu + H_2O$)
 
-### Využití kyslíku
+### Využití vodíku
 
 - výroba kovů z rud
 - svařování, řezání kovů
 - Ekologické palivo do automobilu
+- Výroba stuřených tuků
 - Zkapalněný vodík, kyslík, ozon a peroxid vodíku $\to$ **Palivo do raket**
 - Jaderná fúze
+
+## Výroba vodíku
+
+- na rozžhavený koks se přivádí vodní pára : $C + H_2O \to^t H_2 + CO$
+
+  - Směs vodíku a oxid uhelnatého $\to$ **Vodní plyn**
+
+  - Směs se zchladí a oxid uhelnatý se zkapalní
+
+- rozklad vody s methanem při vysoké teplotě : $CH_4 + H_2O \to^t CO + 3H_2$
+
+  - Získá se více vodíku, než u prvního způsobu
+
+## Příprava
+
+1. **Neušlechtilý kov + zředěná kyselina**
+
+   $Zn + 2HCl \to ZnCl_2 + H_2$
+
+2. **Silně neušlechtilý kov + voda**
+
+   $Na + H_2O \to H_2 + NaOH$
+
+3. **Elektrolýzou vody**
+
+   Plyny vznikají v poměru 2:1
+
+   *Hofmannův přistroj* (elektrolyzér)
+
+   $H_2SO_4 + 2H_2O \to SO_4^{2-} + 2H_3O^+$
+
+   **katoda** - záporná elektroda (redukce)
+
+   ​	$2H_3O^+ + 2e^- \to H_2 + 2H_2O$
+
+   **anoda** - kladná elektroda (oxidace)
+
+   ​	Síranové anionty jsou stabilní a nemůžou už oxidovat $\to$ Namísto toho se tam bude štěpit voda a vodík se předá 	síranovému aniontu
+
+   ​	$SO_4^{2-} + H_2O \to H_2SO_4 + \frac{1}{2}O_2$	
+
+## Sloučeniny vodíku
+
+### Binární sloučeniny vodíku
+
+- tvoří se všemi prvky A-podskupin, až na vzácné plyny
+- Jejich vlastnosti se odvíjejí od typu chemické vazby
+
+1. **Iontové hydridy **(*H + I.A a kovy alkalických zemin $Ca, Sr, Ba, Ra$*)
+
+- Iontová vazba je silná $\to$ Pevné látky
+- Výborně rozpustné ve vodě (vazba je vysoce polární)
+
+2. **Kovaletní hydridy**
+
+   - až na vodu jsou to plyny
+
+   1. Polární $\to$ $H_2O, NH_3, HX$
+      - rozdíl elektronegativit je větší než 0.4
+   2. Nepolární $\to$ $SiH_4, CH_4$
+      - Rozdíl elektronegativit je menší než 0.4
 
 # Kyslík
 
@@ -113,3 +175,49 @@ date=2021-05-26
   - $2HgO \to^{\Delta T} O_2 + 2Hg$
 - *Lavoisiet* mu dal název (oxys - kyselina) $\to$ Tvořící kyselinu
 
+## Elektronová konfigurace
+
+$_80 : [_2He],  2s^2, 2p^4 [\uparrow \downarrow]; [\uparrow \downarrow][\uparrow][\uparrow]$
+
+- Není stabilní
+
+- **Uzavření elektronové konfigurace**
+
+  
+
+  1. Přijetí $2e^-$ od atomů prvků s nižší elektronegativitou (Alkalické kovy, kovy alakalických zemin, aktinoidy a lantanoidy) $\to$ **Iontové oxidy**
+
+  $O^0 + 2e^- \to O^{2-} [_{10}Ne]$
+
+  2. Překryv valenčních atomových orbitalu (tvorba kovalentní vazby) 
+
+  - Je vždy dvouvazný $\to$ Buď jedna dvojná vazba, nebo dvě jednoduché
+  - **Polární** - většina sloučenin kyslíku jsou polární
+  - **Nepolární** - $O_2$
+
+  3. Může být trojvazný (není to výsledek excitace) $\to$ vazba je koordinačně kovalentní ($H_3O^+$)
+
+- **ox. čísla** $\to$ -2, -1 (peroxidy), 0, 2 ($OF_2$ - difluorid kyslíku)
+
+## Vlastnosti a info
+
+- **Izotopy** $\to$ $_8^{16}O$ - toho je nejíce, $_8^{17}O$, $O_8^{18}$
+
+- **Výskyt** $\to$ vzduch (21%)
+
+- Používá se na buněčné dýchání, oxidace přijatých živin
+
+  Energie ve formě ATP
+
+  $4O_2$ + hemoglobin $\to$ oxyhemoglobin
+
+  Jenom 15% $CO_2$ se vydechne
+
+  Zbytek se rozpustí ve vodě v krvi $H_2O + CO_2 \to H_3O^+ + HCO_3^-$
+
+  Hemoglobin na sebe naváže $H^+$, proto je pH krve zásadité
+
+- V atmosféře se udržuje množství kyslíku
+
+  1. Fotosyntézou
+  2. Rozkladem $H_2O$ UV zářením v atmosféře
