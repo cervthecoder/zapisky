@@ -683,28 +683,38 @@ Tlstolenik
 
 # Savci
 
+- nejmladší vývojová skupina obratlovců
 - Sajou mléko $\to$ mléčné žlázy
+
 - mají placentu (placentálové), až na vačnatce 
 - děloha
 - srst $\to$ Jednotlivé chloupky vyrůstají z folikulů (metamorfózou : bodliny)
-- Homoiotermní  $\to37^{\circ}C$
+- Homoiotermní  $\to37^{\circ}C$ (u vejcorodých je to složitější : tolik to nefunguje)
 - tři sluchové kůstky $\to$ **kovadlinka, třmínek, kladívko**
 - krom špičáků a řezáku mají i stoličky $\to$ **heterodontní chrup**
 - rodí živá mláďata (výjimka - vejcorodí)
-- velký rozvoj moncového mozku a mozečku
+- velký rozvoj koncového mozku a mozečku
 - tělní dutina rozdělená bránicí
 - pohlavní dimorfimus
 - spodní čelist nepárová
+- rozdělujeme je dle vývoje zárodku
 
 ### Placenta
 
 - chorion začne do sliznice prorůstat klky (chorionové klky)
+
+- některé viry mají stejné dna sekvence jako buňky placenty
+
+  Placenta vznikla nejspíše z nádorového bujení v děloze vzniklého virovou infekcí
+
 - sliznice dělohy + chorionové klky $\to$ **placenta**
+
 - přiléhají tam na sebe vlásečnice
 
 ### Placentálové
 
 - nepárová pochva
+- placenta sprostředkovává výživu zárodku
 - různý vývod močové a rozmnožovací soustavy
 - děloha dvojitá, děloha dvourohá, děloha jednoduchá
 
@@ -713,12 +723,39 @@ Tlstolenik
 ## Vačnatci
 
 - nemají placentu
+- zvláštní způsob rozmnožování
+- vakové kosti $\to$ vyrůstají z pánve $\to$ dřží vak pohromadě
 - rodí malý zárodek (vývoj v těle matky je krátký 10-20 dnů) $\to$ ten přeleze do vaku matky, kde se přisaje na mléčnou žlázu
 - v tomto vaku probíhá zbytek vývoje mláďata
 - dvojitá děloha $\to$ dvojitý penis
 - kloaka
 - udrželi se v Austrálii $\to$ klokani, koaly
 - v Jižní americe/střední americe $\to$ vačice
+
+### Vačivovití
+
+- samice rodí velký počet mláďat
+- Rodí se více mláďat než má samice bradavek $\to$ Souboj o přežití
+
+**Vačice Virginská**
+
+**Vačice oposum**
+
+**Vačice vydří**
+
+### Kunovcovití
+
+- výhradně v austrálii
+- Velikostí myš až kočka
+
+**Ďábel medvědovitý**
+
+**Vakovlk tasmánský**
+
+- vymřelí
+- pruhovatí
+
+### Bandikutovití
 
 ## Ptakořitní
 
@@ -728,18 +765,60 @@ Tlstolenik
 
 - jediní vejcorodí savci
 
-- krkavčí kost
+- krkavčí kost $\to$ u pletence horní končetiny
+
+- Varlata nesestupují mimo tělo
+
+- nedokonalá termoregulace
+
+- oči se zacuvanou mžurkou
 
 - **Ptakopysk, ježura a paježura**
 
+- Pouze Oceanie (Australii etc.)
+
+**Ježura**
+
+- mají dlouhé bodliny
+- mezi bodlinama roste srst
+- protáhle bezzubé čelisti
+- živí se hmyzem
+
+**Ptakopysk**
+
+- měkký kožovotý zobák $\to$ mnoho receptorů (dokází měřit elektromagnetickou aktivitu, která vzniká při pohybu svalové soustavy ostatních živočichů)
+- hustá nesmáčivá srst
+- Samci mají na zadních nohách trny s jedovou žlázou
 
 
-**placentálové**
 
-## Kytovci
+# Placentálové
 
-- vyinuli se z kopytníků
-- druhotně se přizpůsobili na vodní prostředí
+- obsahuje největší počet řádů
+- výživa plodu pomocí placenty
+- mláďata po narození sají mléko
+- nejdokonaleji vyvinutý mozek ze savců
+- nejlépe vyvinutý termoregulční aparát
+- z chorionu a buněk děložní sliznice
+
+## Hmyzožeravci
+
+- nejstařší řád placentálů
+- aktivní především v noci
+- protažené čelisti
+- velký počet drobných zubů
+
+### Krtek
+
+### Ježek
+
+- teritoriální zvířata v noční aktivitou
+
+**Východní**
+
+**Západní**
+
+### Rejsek
 
 
 

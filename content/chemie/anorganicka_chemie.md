@@ -37,9 +37,9 @@ date=2021-05-26
 
      **Nepolární** $\to$ Například $H_2, CH_4, PH_3(fosfan)$
 
-     **Polární** \to například $H_2O$, halogenovodíky
+     **Polární** $\to$ například $H_2O$, halogenovodíky
 
-  2. Odevzádní elektronu ($H-e^- \to H^+$), vytvoří proton
+  2. Odevzání elektronu ($H-e^- \to H^+$), vytvoří proton
 
      Je velmi nestálý $\to$ Váže se na vodu. avytváří oxonium a na jiné částice
 
@@ -177,7 +177,7 @@ date=2021-05-26
 
 ## Elektronová konfigurace
 
-$_80 : [_2He],  2s^2, 2p^4 [\uparrow \downarrow]; [\uparrow \downarrow][\uparrow][\uparrow]$
+$_80 : [_2He],  2s^2, 2p^4 [\uparrow \downarrow]^{[\uparrow \downarrow][\uparrow][\uparrow]}$
 
 - Není stabilní
 
@@ -221,3 +221,41 @@ $_80 : [_2He],  2s^2, 2p^4 [\uparrow \downarrow]; [\uparrow \downarrow][\uparrow
 
   1. Fotosyntézou
   2. Rozkladem $H_2O$ UV zářením v atmosféře
+
+## Příprava (ověření fyz. chem. vlastností)
+
+- využíváme nestále sloučeniny kyslíku
+
+  $\to$ rozkladem
+
+  1. Oxidy ($HgO$)
+  2. Soli kyslíkatých kyselin ($XNO_3, XClO_4$)
+  3. Peroxidy (hlavně $H_2O_2$)
+
+### Eperiment 1. : Rozklad peroxidu vodíku
+
+$2H_2O_2 \to^{MnO_2} 2H_2O + O_2$
+
+- katalyzovali jsme burelem $\to$ peroxid vodíku se bouří, když k němu dáme burel
+- Reakce exotermická
+- po přidání burelu pozorujeme unikající kyslík (bublinky v roztoku)
+- Kyslík se držel dole v plynovém válci $\to$ **Větší hustota než vzduch**
+- Nebyl vidět $\to$ **Bezbarvý plyn**
+- **Důkaz** $\to$ žhnoucí špejle se kyslíku rozhoří
+
+**Reakce** $S + O_2 \to SO_2$
+
+- hořící síra se vložila do plynovéo válce
+- hořela modrým plamenem
+- Vzniká oxid siřičitý (je bakteriocidní)
+
+**Reakce** $4Fe + 3O_2 \to 2Fe_2O_3$
+
+- vzniká červený oxid železitý
+- s třasknutím
+
+**Reakce** $C + O_2 \to CO_2$
+
+$\to$ **Kyslík je velmi reaktivní prvek**
+
+ 
